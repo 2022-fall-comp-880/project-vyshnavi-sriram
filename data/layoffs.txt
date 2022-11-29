@@ -1,0 +1,356 @@
+Company,No. of reported layoffs, workforce impacted,Announced/reported date,Industry,HQ,Source,Company Status
+Sema4,750,16,11/14/2022,AI,Stamford,MarketWatch,Public
+Intercom,124,13,11/14/2022,Customer service,San Franicsco,Silicon Republic,Private
+Amazon,10000,3,11/14/2022,E-commerce,Seattle,New York Times,Public
+Veev,100,30,11/11/2022,PropTech,San Mateo,Calcalistech,Private
+Coinbase,1160,18,10/11/2022,Cryptocurrency,San Francisco,The Information,Public
+Wavely,22,100,10/11/2022,HR Tech,Palo Alto,Wavely,Private
+Reforge,0,0,10/11/2022,HR Tech,San Francisco,Reforge CEO,Private
+Ocavu,20,48,10/11/2022,Cryptocurrency,Lehi,Salt Lake Tribune,Private
+Wistia,40,45,10/11/2022,Video production,Cambridge,Wistia CEO,Private
+SoundHound,45,10,10/11/2022,AI,Santa Clara,TechCrunch,Public
+Juul,400,30,10/11/2022,Consumer goods,San Francisco,CNBC,Public
+RingCentral,50,10,9/11/2022,SaaS,Belmont,Barron's,Public
+AvantStay,224,30,9/11/2022,Travel,Los Angeles,Skift,Private
+Redfin,1332,9,9/11/2022,PropTech,Seattle,Bloomberg,Public
+Root Insurance,467,40,9/11/2022,InsurTech,Columbus,Columbus Dispatch,Public
+Coursera,1200,42,9/11/2022,EdTech,Mountain View,Coursera CEO,Public
+Amobee,0,0,9/11/2022,AdTech,Redwood City,Amobee,Private
+Kabam,35,7,9/11/2022,Video games,San Francisco,TechCrunch,Private
+Meta,1100,13,9/11/2022,Social Media,Menlo Park,CNBC,Public
+SADA,55,11,8/11/2022,Cloud computing,Los Angeles,SADA CEO,Private
+Astra,128,16,8/11/2022,Aerospace,Alameda,Astra CEO,Public
+Salesforce,1090,5,7/11/2022,Enterprise Software,San Francisco,CNBC,Public
+Domino Data Lab,62,25,7/11/2022,AI,San Francisco,LinkedIn reports,Private
+Code42,91,15,7/11/2022,Cybersecurity,Minneapolis,Star Tribune,Private
+Zendesk,350,5,7/11/2022,Customer service,San Francisco,SFGate,Public
+Varonis Systems,110,5,6/11/2022,Cybersecurity,New York,Calcalistech,Private
+Twitter,3700,50,4/11/2022,Social Media,San Francisco,Reuters,Public
+Mythical Games,32,10,4/11/2022,Video games,Los Angeles,Bloomberg,Private
+Benitago Group,3,14,4/11/2022,E-commerce,New York,TechCrunch,Private
+Exodus,59,22,4/11/2022,Cryptocurrency,Nebraska City,Exodus CEO,Private
+Stripe,1050,14,3/11/2022,FinTech,San Francisco,Bloomberg,Private
+Lyft,760,15,3/11/2022,Transportation,San Francisco,WSJ,Public
+Shippo,60,20,3/11/2022,Logistics,San Francisco,Shippo CEO,Private
+Affirm,25,1,3/11/2022,FinTech,San Francisco,The Information,Public
+Faire,84,7,3/11/2022,E-commerce,San Francisco,The Information,Private
+Digital Currency Group,10,13,2/11/2022,Cryptocurrency,Stamford,Coindesk,Private
+Iron Ox,50,50,2/11/2022,AgTech,San Francisco,TechCrunch,Private
+Chargebee,142,10,2/11/2022,FinTech,San Francisco,TechCrunch,Private
+Chime,156,12,2/11/2022,FinTech,San Francisco,The Information,Private
+Opendoor,550,18,2/11/2022,PropTech,San Francisco,Opendoor CEO,Public
+Gem,100,33,2/11/2022,Recruiting,San Francisco,Gem CEO,Private
+Brightline,30,20,1/11/2022,Health Care,Palo Alto,Behavioral Health Business,Private
+Upstart,60,7,1/11/2022,FinTech,San Carlos,TechCrunch,Private
+Booking.com,226,3,1/11/2022,Travel,Grand Rapids,Crain's Detroit Business,Private
+Notarize,170,44,10/31/2022,Legal Tech,Boston,Boston Business Journal,Private
+Equitybee,25,20,10/31/2022,FinTech,San Francisco,Calcalistech,Private
+EquityZen,30,27,10/31/2022,FinTech,New York,Axios,Private
+Fifth Season,100,100,10/28/2022,Vertical farming,Pittsburgh,Pittsburgh Business Journal,Private
+Advata,32,21,10/28/2022,Health Care,Bellevue,GeekWire,Private
+Spreetail,100,15,10/27/2022,Retail,Lincoln,Spreetail CEO,Private
+Recharge,84,17,10/27/2022,FinTech,Los Angeles,Recharge CEO,Private
+Argo AI,1000,100,10/26/2022,Transportation,Pittsburgh,TechCrunch,Private
+GoFundMe,94,12,10/26/2022,Crowdfunding,Redwood City,GoFundMe,Private
+Zillow,300,5,10/26/2022,PropTech,Seattle,TechCrunch,Public
+Callisto Media,140,35,10/25/2022,Analytics,Emeryville,Publishers Weekly,Private
+TigerGraph,0,0,10/25/2022,Analytics,Redwood City,Sources within the company,Private
+Fundbox,150,42,10/25/2022,FinTech,San Francisco,Calcalistech,Private
+Embroker,30,12,10/25/2022,InsurTech,San Francisco,The Insurer,Private
+Snyk,220,14,10/24/2022,Cybersecurity,Boston,Globes,Private
+Cerebral,400,20,10/24/2022,Health Care,San Francisco,Wall Street Journal,Private
+Gopuff,2200,14,10/21/2022,E-commerce,Philadelphia,"Bloomberg, The Information",Private
+Volta Charging,11,54,10/21/2022,Automotive,San Francisco,Volta ,Public
+Khoros,120,10,10/21/2022,SaaS,Austin,Austin Business News,Private
+F5,100,1,10/21/2022,SaaS,Seattle,GeekWire,Public
+Loom,57,23,10/20/2022,Enterprise Software,San Francisco,SFGate,Private
+Starry,305,50,10/20/2022,WiFi,Boston,Starry,Public
+Zeus Living,64,46,10/20/2022,PropTech,San Francisco,San Francisco Business Journal,Private
+Clever Real Estate,0,0,10/19/2022,PropTech,St. Louis,St. Louis Business Journal,Private
+AtoB,32,30,10/19/2022,FinTech,San Francisco,SFGate,Private
+Noodle,0,0,10/18/2022,EdTech,New York,LinkedIn,Private
+Leafly,56,21,10/18/2022,Cannabis,Seattle,Leafly,Public
+Flipboard,24,21,10/16/2022,News,Palo Alto,Axios,Private
+Beyond Meat,240,23,10/14/2022,FoodTech,Manhattan Beach,CNBC,Public
+Clear Capital,378,27,10/14/2022,PropTech,Truckee,TechCrunch,Private
+Momentive,180,11,10/14/2022,IT,Waterford,TechCrunch,Private
+6sense,150,10,12/10/2022,AI,San Francisco ,MoneyControl,Private
+Noom,1095,22,11/10/2022,Fitness,New York,TechCrunch,Private
+Pacaso,100,30,11/10/2022,PropTech,San Francisco,Inman,Private
+Udacity,55,13,11/10/2022,EdTech,Mountain View,Udacity,Private
+Brex,136,11,11/10/2022,FinTech,San Francisco,TechCrunch,Private
+Redesign Health,67,20,10/10/2022,Health Care,New York,Fast Company,Private
+Rev.com,85,2,7/10/2022,AI,San Francisco,Austin American-Statesman,Private
+Peloton,4084,40,6/10/2022,Fitness,New York,CNBC,Public
+Spotify,0,0,6/10/2022,Music,Stockholm,TechCrunch,Public
+Built In,50,25,5/10/2022,Networking,Chicago,LinkedIn,Private
+Homie,162,40,4/10/2022,PropTech,South Jordan,"TechCrunch, Crunchbase News reporting",Private
+TruePill,315,45,9/30/2022,Health Care,Hayward,TechCrunch,Private
+Spin,78,10,9/30/2022,Transportation,San Francisco,TechCrunch,Private
+DocuSign,671,9,9/28/2022,E-signature,San Francisco,CNBC,Public
+Divvy Homes,40,12,9/27/2022,PropTech,San Franicsco,The Information,Private
+Instacart,1877,1,9/24/2022,E-commerce,San Francisco,The Information,Private
+Pesto,100,100,9/23/2022,IT,San Francisco,Pesto announcement,Private
+Foxtrot,26,4,9/23/2022,E-commerce,Chicago,Chicago Business,Private
+Klarna,700,10,9/22/2022,FinTech,Stockholm,Sifted,Private
+Kitty Hawk,100,100,9/21/2022,Aerospace,Mountain View,CNBC,Private
+Compass,825,25,9/20/2022,PropTech,New York,Bloomberg,Public
+Curative,109,6,9/20/2022,Health Care,Los Angeles,Digital Health,Private
+VideoAmp,21,2,9/19/2022,Advertising platforms,Los Angeles,Company memo,Private
+DayTwo,0,0,9/15/2022,Health Care,Walnut Creek,Calcalistech,Private
+LivePerson,193,11,9/15/2022,Customer service,New York,LinkedIn ,Public
+WorkRamp,35,20,9/15/2022,SaaS,San Carlos,LinkedIn,Private
+Netflix ,480,4,9/14/2022,Media,Los Gatos,Deadline,Public
+Twilio,800,11,9/14/2022,Enterprise Software,San Francisco,TechCrunch,Public
+Sundae,4,15,9/13/2022,PropTech,San Francisco,Confirmed by CB News from sources,Private
+Patreon,80,17,9/13/2022,Social Media,San Francisco,The Information,Private
+Taboola,100,6,9/13/2022,Content marketing,New York,Calcalistech,Public
+Sama,0,0,12/9/2022,AI,San Francisco,Sama,Private
+Rent the Runway,432,24,12/9/2022,E-commerce,New York,Wall Street Journal,Public
+Karbon,17,23,12/9/2022,Productivity,San Francisco,"Stuart McLeod, CEO of Karbon",Private
+DreamBox Learning,0,0,9/9/2022,EdTech,Seattle,Geekwire,Private
+CommonBond,22,100,9/9/2022,FinTech,New York,"David Klein, CEO of CommonBond",Private
+Flowhub,40,15,9/9/2022,Cannabis,Dever,Business Insider,Private
+FullStory,0,0,8/9/2022,SaaS,Atlanta,"Scott Voigt, CEO of FullStory",Private
+realtor.com,0,0,8/9/2022,PropTech,Santa Clara,SFGate,Private
+BigBear.ai,45,7,8/9/2022,Analytics,Columbia,Baltimore Business Journal,Public
+Medly Pharmacy,67,50,7/9/2022,Health Care,New York,Crain's New York,Private
+Brave Care,40,33,6/9/2022,Pediatrics,Portland,The Oregonian,Private
+Medium,56,25,6/9/2022,Publishing,San Francisco,"Lauren Newton, Head of People at Medium",Private
+Juniper Square,89,14,6/9/2022,PropTech,San Francisco,The Real Deal,Private
+Innovaccer,120,8,1/9/2022,Health Care,San Francisco,Inc42,Private
+The Wing,40,100,8/31/2022,Coworking,New York,The Information,Private
+Snap,1280,20,8/31/2022,Social Media,Venice,The Verge,Public
+GoodRx,140,16,8/31/2022,Health Care,Los Angeles,Seeking Alpha,Public
+Apartment List,29,10,8/31/2022,PropTech,San Francisco,CEO Matthew Woods,Private
+Nate,30,20,8/30/2022,E-commerce,New York,The Information,Private
+Skillz,0,0,8/29/2022,Mobile Apps,San Francisco,Seeking Alpha,Public
+Fungible,0,0,8/29/2022,Cryptocurrency,Santa Clara,Blocks & Files,Private
+Okta,24,34,8/26/2022,Enterprise software,San Francisco,Unleash,Public
+Argyle,20,7,8/26/2022,InsurTech,New York,TechCrunch,Private
+FreshDirect,40,23,8/25/2022,E-commerce,The Bronx,Philadelphia Business Journal,Private
+impact.com,56,10,8/25/2022,Digital marketing,Santa Barbara,impact.com,Private
+ShipBob,67,7,8/25/2022,Shipping,Chicago,Business Insider ,Private
+Pix,0,0,8/24/2022,FoodTech,Napa,San Francisco Chronicle,Private
+Reali,140,100,8/24/2022,PropTech,San Mateo,Calcalistech,Private
+DataRobot,22,26,8/23/2022,AI,Boston,The Information,Private
+Amperity,13,3,8/20/2022,SaaS,Seattle,Geekwire,Private
+Wayfair,870,34,8/19/2022,E-commerce,Boston,Boston Globe,Public
+Thirty Madison,220,10,8/18/2022,Health Care,Greater New York area,Fierce Healthcare,Private
+New Relic,110,5,8/18/2022,Enterprise software,Bay Area,MarketWatch,Private
+Tempo Automation,54,12,8/17/2022,Automotive,San Francisco,San Francisco Business Times,Private
+Malwarebytes,125,14,8/17/2022,Enterprise Software,San Francisco,TechCrunch,Private
+Edmodo,45,100,8/16/2022,EdTech,San Mateo,EdSurge,Private
+Woven,5,15,8/16/2022,AI,Indianapolis,AdAge,Private
+Blend,67,25,8/15/2022,FinTech,San Francisco,HousingWire,Public
+ThredUp,87,15,8/15/2022,E-commerce,Oakland,Retail Dive,Public
+Almanac,44,30,8/13/2022,Collaboration,San Francisco,LinkedIn,Private
+Orbit,0,0,12/8/2022,Productivity,San Francisco,Orbit CEO Patrick Woods,Private
+Core Scientific ,56,10,12/8/2022,Blockchain,Austin,Blockworks,Public
+GoHealth,800,20,11/8/2022,Health Care,Chicago,Chicago Sun Times,Public
+Homeward,120,20,11/8/2022,PropTech,Austin,The Real Deal,Private
+Calm,90,20,11/8/2022,Health Care,San Francisco,Wall Street Journal,Private
+Nutanix,270,4,10/8/2022,Enterprise Software,San Jose,SFGate,Public
+Sweetgreen,124,5,9/8/2022,Food and beverage,Washington,CNBC,Public
+Vroom,647,45,8/8/2022,E-commerce,New York,Automotive News,Public
+Warby Parker,63,22,8/8/2022,E-commerce,New York City,Insider,Public
+DataRobot,0,0,8/8/2022,AI,Boston,Boston Globe,Private
+Haus,45,100,8/8/2022,Food and beverage,Healdsburg,TechCrunch,Private
+Groupon,500,15,8/8/2022,E-commerce,Chicago,TechCrunch,Public
+Daily Harvest,73,15,8/8/2022,E-commerce,New York City,Fortune,Private
+iRobot,140,10,5/8/2022,AI,Bedford,Geekwire,Public
+StubHub,0,0,4/8/2022,E-commerce,San Francisco,StubHub on LinkedIn,Private
+On Deck,73,34,4/8/2022,Networking,San Francisco,TechCrunch,Private
+Jam City,34,17,4/8/2022,Mobile Apps,Culver City,VentureBeat,Private
+Healthcare.com,149,32,3/8/2022,InsurTech,Miami,Miami Inno,Private
+Glossier,104,56,2/8/2022,Beauty,New York,Modern Retail,Private
+Nylas,80,13,2/8/2022,Software,San Francisco,Nylas,Private
+Latch ,115,37,2/8/2022,PropTech,New York,Latch,Public
+Robinhood,1013,30,2/8/2022,FinTech,Menlo Park,Robinhood,Public
+Outreach,44,5,2/8/2022,Sales Tech,Seattle,LinkedIn,Private
+Oracle,201,1.40,1/8/2022,SaaS,Austin,The Information,Public
+Imperfect Foods,50,1.40,1/8/2022,E-commerce,San Francisco,San Francisco Business Times,Private
+OnlyFans,0,0,1/8/2022,Social Media,London,Business Insider,Private
+2U,800,20,1/8/2022,EdTech,Hyattsville,Inside Higher Ed,Public
+Shelf Engine,43,21.50,7/29/2022,FoodTech,Seattle,GeekWire,Private
+Metromile,60,20,7/29/2022,InsurTech,San Francisco,Crunchbase,Public
+Career Karma,60,20,7/28/2022,Career planning,San Francisco,TechCrunch,Private
+Turntide,130,20,7/28/2022,CleanTech,Sunnyvale,Business Insider,Private
+Change.org,97,19,7/28/2022,CivicTech,San Francisco,Change.org,Private
+Rivian,840,6,7/28/2022,Electric vehicle,Irvine,CNN,Public
+Vox Media,39,2,7/27/2022,Digital media,"Washington, DC",Axios,Private
+People.ai,0,0,7/26/2022,AI,San Francisco,LinkedIn,Private
+Shopify,1000,10,7/26/2022,E-commerce,Ottawa,WSJ,Public
+Outbrain,38,3,7/26/2022,Digital Marketing,New York,CTech,Public
+Pear Therapeutics,25,9,7/25/2022,Software,Boston,MassDevice,Public
+Boosted Commerce,7.5,5,7/25/2022,E-commerce,Los Angeles,Business Insider ,Private
+Clarify Health,15,5,7/22/2022,Health Care,San Francisco,Axios,Private
+Capsule,0,0,7/21/2022,Health Care,New York,Crain's New York,Private
+Rad Power Bikes,163,27,7/21/2022,Transportation,Seattle,GeekWire,Private
+InVision,0,0,7/21/2022,Collaboration,New York,LinkedIn,Private
+Hydrow,70,35,7/21/2022,Fitness,Boston,Boston Globe,Private
+Lunchbox,132,33,7/21/2022,FoodTech,New York,Business Insider,Private
+WHOOP,120,15,7/21/2022,Fitness,Boston,Front Office Sports,Private
+98point6,40,10,7/21/2022,Health Care,Seattle,GeekWire,Private
+RealSelf,11,5,7/21/2022,Beauty,Seattle,GeekWire,Private
+Varo,75,8.30,7/20/2022,FinTech,San Francisco,Axios,Private
+Arc,13,13,7/20/2022,HR Tech,Mountain View,LinkedIn,Private
+Flyhomes,150,20,7/20/2022,PropTech,Seattle,GeekWire,Private
+The Mom Project,54,15,7/20/2022,Talent marketplace,Chicago,LinkedIn,Private
+Olive,450,9,7/19/2022,Health Care,Columbus,Olive,Private
+Invitae,1000,33.30,7/18/2022,Health Care,San Francisco,GenomeWeb,Public
+Elemy,0,0,7/18/2022,Health Care,San Francisco,Behavioral Health Business,Private
+TikTok,0,0,7/18/2022,Social Media,Los Angeles,Wired,Private
+Lusha,30,10,7/18/2022,Sales tech,New York,CTech,Private
+Gemini,68,7,7/18/2022,Cryptocurrency,New York,TechCrunch,Private
+Vimeo,72,6,7/18/2022,Media,New York,Business Insider ,Public
+Aspire,23,23,7/15/2022,Marketing tech,San Francisco,Business Insider ,Private
+Project44,63,5,7/15/2022,Logistics,Chicago,FreightWaves,Private
+Alto Pharmacy,0,0,7/14/2022,Health Care,San Francisco,LinkedIn,Private
+OpenSea,80,20,7/14/2022,Cryptocurrency,New York,Devin Finzer,Private
+Papa,120,15,7/14/2022,Elder Care,Miami,LinkedIn,Private
+ChowNow,100,12.50,7/13/2022,FoodTech,Playa Visa,TechCrunch,Private
+100 Thieves,12,6,7/13/2022,Media,Los Angeles,Dexerto,Private
+Nuro,10,1.80,7/13/2022,Transportation,Mountain View,The Robot Report,Private
+Spring,0,0,7/13/2022,E-commerce,San Francisco,Business Insider,Private
+Fabric,120,40,7/13/2022,E-commerce,New York,TechCrunch,Private
+Tonal,262,35,7/13/2022,Fitness,San Francisco,CNBC,Private
+Microsoft,0,0,12/7/2022,Enterprise Software,Seattle,Crunchbase News reporting,Public
+Adwerx,40,20,12/7/2022,Digital Marketing,Durham,Inman,Private
+Hubilo,45,10,12/7/2022,Virtual Events,San Francisco,Inc42,Private
+Hopin,380,84,11/7/2022,Virtual Events,London,TechCrunch,Private
+SundaySky,24,13,11/7/2022,Video Conferencing Software,New York,Globes,Private
+Forward,10,5,11/7/2022,Health Care,San Francisco,Fierce Healthcare,Private
+Nextbite,0,0,8/7/2022,FoodTech,Denver,Business Insider ,Private
+Butler Hospitality,1000,100,8/7/2022,Hospitality,New York,TechCrunch,Private
+NextRoll,24,3,8/7/2022,Marketing Tech,San Francisco,Business Insider ,Private
+Cedar,144,24,7/7/2022,Health Care,New York,Business Insider ,Private
+Emotive,30,18,7/7/2022,SMS Marketing,Los Angeles,dot.LA,Private
+Next Insurance,150,17,7/7/2022,InsurTech,Palo Alto,CTech,Private
+Argo AI,150,5,7/7/2022,Transportation,Pittsburgh,TechCrunch,Private
+SQream Technologies,30,18,6/7/2022,Analytics,New York,CTech,Private
+Remote,100,9,6/7/2022,HR Tech,San Francisco,Publico,Private
+Bizzabo,120,30,5/7/2022,Virtual Events,New York,CTech,Private
+Outschool,31,18,5/7/2022,EdTech,San Francisco,TechCrunch,Private
+Verbit,80,10,5/7/2022,Natural Language Processing,New York,CTech,Private
+Celsius,150,25,3/7/2022,Cryptocurrency,Hoboken,CTech,Private
+LetsGetChecked,0,0,2/7/2022,Health Care,New York,Business Post,Private
+Teleport,0,0,1/7/2022,Cloud Infrastructure,Oakland,Teleport,Private
+WanderJaunt,85,100,1/7/2022,PropTech,San Francisco,Short Term Rentalz,Private
+Canoo,58,6,1/7/2022,Transportation,Torrance,Business Insider ,Private
+Stream,25,15,6/30/2022,Communications Infrastructure,Boulder,Pragmatic Engineer,Private
+Enjoy,400,18,6/30/2022,E-commerce,Palo Alto,Bloomberg,Public
+Abra,12,5,6/30/2022,Cryptocurrency,Mountain View,The Block,Private
+Modsy,0,0,6/29/2022,E-commerce,San Francisco,TechCrunch,Private
+Degreed,0,0,6/29/2022,EdTech,Pleasanton,LinkedIn,Private
+Baton,16,25,6/29/2022,Transportation,San Francisco,Freight Waves,Private
+HomeLight,190,19,6/29/2022,PropTech,San Francisco,The Real Deal,Private
+Qumolo,80,19,6/29/2022,Data storage,Seattle,GeekWire,Private
+Substack,13,14,6/29/2022,Media,San Francisco,New York Times,Private
+AppLovin,300,12,6/29/2022,Mobile Apps,Palo Alto,Silicon Valley Business Journal,Public
+Niantic,85,8,6/29/2022,Video games,San Francisco,Bloomberg,Private
+Unity,200,4,6/29/2022,Video games,San Francisco,WSJ,Public
+Sundae,150,15,6/28/2022,PropTech,San Francisco,Real Trends,Private
+Bright Machines,30,8,6/28/2022,Robotics,San Francisco,CTech,Private
+StockX,120,8,6/28/2022,E-commerce,Detroit,The Information,Private
+Cue,170,3.40,6/27/2022,Health Care,San Diego,GenomeWeb,Public
+SafeGraph,125,25,6/27/2022,AI,San Francisco,SafeGraph,Private
+Amount,36,18,6/27/2022,FinTech,Chicago,TechCrunch,Private
+UiPath,210,5,6/27/2022,AI,New York,CNBC,Public
+Postscript,43,19,6/26/2022,Marketing Tech,San Francisco,Alex Beller,Private
+Ethos Life,40,12,6/24/2022,InsurTech,San Francisco,Coverager,Private
+Aura,70,9,6/24/2022,Cybersecurity,Boston,Bank Info Security,Private
+Ro,90,18,6/23/2022,Health Care,New York,TechCrunch,Private
+Esper,24,12,6/23/2022,DevOps,Seattle,GeekWire,Private
+Community,40,0.80,6/22/2022,Social Media,Los Angeles,Business Insider ,Private
+MasterClass,156,20,6/22/2022,EdTech,San Francisco,MasterClass CEO David Rogier,Private
+SummerBio,101,100,6/20/2022,Health Care,Menlo Park,Bay Area Inno,Private
+Buzzer,20,20,6/20/2022,Media,New York,Sportico,Private
+Finite State,16,20,6/17/2022,Cybersecurity,Columbus,ColumbusInno,Private
+Nayya,16,15,6/17/2022,HR Tech,New York,Crunchbase News reporting,Private
+Socure,69,13,6/17/2022,Identity verification,Reno,Forbes,Private
+Zumper,45,15,6/16/2022,PropTech,San Francisco,The Real Deal,Private
+JOKR,50,5,6/16/2022,Food delivery,New York,TechCrunch,Private
+Tonkean,23,23,6/15/2022,Software,San Francisco,The Marker,Private
+Compass,450,10,6/14/2022,PropTech,New York,Bloomberg,Public
+TIFIN,21,10,6/14/2022,FinTech,Boulder,Axios,Private
+BlockFi,170,20,6/13/2022,Cryptocurrency,Jersey City,BlockFi,Private
+DesktopMetal,36,12,6/13/2022,3D Printing,Burlington,MarketWatch,Public
+Keepe,0,0,10/6/2022,PropTech,Seattle,GeekWire,Private
+Liongard,0,0,10/6/2022,IT,Houston,CRN,Private
+Sonder,294,21,10/6/2022,Hospitality,San Francisco,MarketWatch,Public
+Stitch Fix,330,15,10/6/2022,E-commerce,San Francisco,CNBC,Public
+Albert,20,8,10/6/2022,FinTech,Los Angeles,dot.LA,Private
+Convoy,0,0,9/6/2022,Logistics,Seattle,GeekWire,Private
+Hologram,80,33,9/6/2022,IoT,Chicago,Crain's Chicago Business,Private
+OneTrust,950,25,9/6/2022,Cybersecurity,Atlanta,OneTrust,Private
+Jellysmack,80,8,9/6/2022,Media,New York,Business Insider,Private
+Deep Instinct,0,0,8/6/2022,Cybersecurity,New York,Crunchbase News,Private
+TruePill,750,15,8/6/2022,Health Care,Hayward,TruePill,Private
+Progrexion,100,20,7/6/2022,FinTech,Salt Lake City,Crunchbase News,Private
+ID.Me,0,0,7/6/2022,Identity verification,"McLean, Virginia",Business Insider,Private
+Bird,138,23,7/6/2022,Transportation,Santa Monica,TechCrunch,Public
+Sendoso,100,14,6/6/2022,Marketing Automation,San Francisco,Business Insider,Private
+Dutchie,56,8,6/6/2022,Cannabis,"Bend, Oregon",GeekWire,Private
+Clubhouse,0,0,3/6/2022,Social Media,San Francisco,Bloomberg,Private
+Superhuman,23,22,3/6/2022,Email Software,San Francisco,CEO Rahul Vohra,Private
+Stord,59,8,3/6/2022,Logistics,Atlanta,Business Insider,Private
+Esme Learning,40,20,2/6/2022,EdTech,Newton,"Esme Learning, Crunchbase News reporting",Private
+Eaze,25,12.50,2/6/2022,Cannabis,San Francisco,Business Insider ,Private
+Policygenius,170,25,2/6/2022,InsurTech,New York,TechCrunch,Private
+IRL,25,25,2/6/2022,Social Media,San Francisco,TechCrunch,Private
+Sourcepoint,7,13,2/6/2022,Privacy Tech,New York,Crunchbase News reporting,Private
+Gemini,100,10,2/6/2022,FinTech,New York,Bloomberg,Private
+Carbon Health,250,8,2/6/2022,Health Care,San Francisco,Carbon Health,Private
+Cybereason,100,2,1/6/2022,Cybersecurity,Boston,CTech,Private
+Side ,50,10,1/6/2022,PropTech,San Francisco,Inman,Private
+Replicated,50,25,5/31/2022,Enterprise Software,Los Angeles,Replicated,Private
+Tomo,44,33,5/31/2022,FinTech,Stamford,Business Insider,Private
+Playtika,250,6,5/31/2022,Gaming,Tel Aviv,Globes,Public
+Coterie Insurance,30,20,5/27/2022,InsurTech,Cincinnati,CincyInno,Private
+Terminus,75,15,5/27/2022,Marketing,Atlanta,LinkedIn,Private
+Lacework,200,20,5/26/2022,Cybersecurity,San Jose,The Information,Private
+Bolt,250,33,5/25/2022,FinTech,San Francisco,Fortune,Private
+The Zebra,40,12,5/24/2022,InsurTech,Austin,Coverager,Private
+ClickUp,70,7,5/24/2022,Productivity Tools,San Diego,Protocol,Private
+PayPal,83,0.27,5/23/2022,FinTech,San Jose,The Information,Public
+Colossus,97,49,5/20/2022,Software,Revere,Axios,Private
+Outside Inc,75,15,5/20/2022,Media,Boulder,Denver Business Journal,Private
+Skillz,70,10,5/20/2022,Esports,San Francisco,TechCrunch,Public
+Talkdesk,0,0,5/19/2022,Customer service,San Francisco,Confirmed by CB News from source,Private
+Picsart,90,8,5/17/2022,Media,Miami,The Information,Private
+Zulily,99,10,5/16/2022,E-commerce,Seattle,GeekWire,Public
+Subspace,50,100,5/13/2022,Media,Los Angeles,LinkedIn,Private
+Latch,30,6,5/13/2022,Smart Home,New York ,TechCrunch,Public
+Thirty Madison,24,3,5/13/2022,Health Care,New York,Axios,Private
+Zwift,0,0,12/5/2022,Fitness,Long Beach,DC Rainmaker,Private
+Tripwire,0,0,12/5/2022,Security,Portland,OregonLive,Private
+Section4,32,25,12/5/2022,EdTech,New York,TechCrunch,Private
+Doma ,310,15,10/5/2022,FinTech,San Francisco,HousingWire,Public
+Carvana,2500,12,10/5/2022,Automotive,Tempe,WSJ,Public
+Mural,0,0,6/5/2022,Product Design,San Francisco,Protocol,Private
+Reef,750,5,6/5/2022,Food delivery,Miami,The Information,Private
+On Deck,72,25,5/5/2022,Business development,San Francisco,TechCrunch,Private
+MainStreet,50,33,4/5/2022,FinTech,San Jose,Insider,Private
+Ideoclick,40,33,4/5/2022,E-commerce,Seattle,Puget Sound Business Journal,Private
+Cameo,167,33.4,4/5/2022,Media,Chicago,The Information,Private
+Vise,25,25,4/5/2022,FinTech,New York,CityWire,Private
+Thrasio,0,0,2/5/2022,E-commerce,Walpole,Insider,Private
+Clyde,19,9.5,4/25/2022,E-commerce,New York,External Spreadsheet,Private
+Better,5000,50,4/19/2022,FinTech,New York,TechCrunch,Private
+Blend,200,10,4/19/2022,FinTech,San Francisco,HousingWire,Public
+Automox,55,11,4/18/2022,Security,Boulder,LinkedIn,Private
+Halcyon Health,0,0,4/15/2022,Health Care,New York,Axios,Private
+Ahead,0,0,4/14/2022,Health Care,Santa Clara,Bloomberg,Private
+Food52,20,6,8/4/2022,Media,New York,Digiday,Private
+Workrise,450,1.50,5/4/2022,Marketplace,Austin,TechCrunch,Private
+Fast,400,100,5/4/2022,FinTech,San Francisco,The Information,Private
+Rasa,59,40,4/4/2022,AI,San Francisco ,Business Insider ,Private
+Grove Collaborative,85,17,3/29/2022,E-commerce,San Francisco,Retail Dive,Private
+Curology,150,20,3/16/2022,E-commerce,San Francisco,SF Business Times,Private
+Knock ,230,46,3/15/2022,PropTech,New York,The Real Deal,Private
+Sezzle,56,20,10/3/2022,FinTech,Minneapolis,Reuters,Public
+Hyperscience,100,25,3/3/2022,AI,New York,The Information,Private
+Virgin Hyperloop,111,50,2/22/2022,Transportation,Los Angeles,Fortune,Private
+Rhino,57,20,3/2/2022,PropTech,New York,The Real Deal,Private
+Beachbody,70,10,1/27/2022,Fitness,Santa Monica,Club Industry,Public
