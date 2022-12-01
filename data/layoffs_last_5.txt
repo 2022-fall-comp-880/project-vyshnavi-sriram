@@ -1,6 +1,5 @@
-Company,No. of reported layoffs,% workforce impacted,Announced/reported date,Industry,HQ,Source,Company Status
-Sezzle,56,20,10/3/2022,FinTech,Minneapolis,Reuters,Public
-Hyperscience,100,25,3/3/2022,AI,New York,The Information,Private
-Virgin Hyperloop,111,50,2/22/2022,Transportation,Los Angeles,Fortune,Private
-Rhino,57,20,3/2/2022,PropTech,New York,The Real Deal,Private
-Beachbody,70,10,1/27/2022,Fitness,Santa Monica,Club Industry,Public
+Sezzle,56,20,FinTech,Minneapolis,Public
+Hyperscience,100,25,AI,New York,Private
+Virgin Hyperloop,111,50,Transportation,Los Angeles,Private
+Rhino,57,20,PropTech,New York,Private
+Beachbody,70,10,Fitness,Santa Monica,Public
