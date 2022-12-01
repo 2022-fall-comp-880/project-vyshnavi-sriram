@@ -2,21 +2,18 @@
 
 ### Description
 
-As US is in recession, most of the employees have been laid off in 2022 in US Tech sector . By implementing this project, we will know:
+Many Employees have lost their jobs in US tech sector due to recession.Getting into the project we are determining impact of Layoffs in various industries, types of companies and cities and 
+represent these using different data structures like list and dictionaries by using required modules and operations of data structures.
+
+###  Motivation
+
+As US is in recession, most of the employees have been laid off in 2022 in US Tech sector . This project investigates about companies and industries which have major impact due to this recession.
+
+### Investigative Questions
 
 1) What are the industries that have major impact?
 
 2) What kind of companies are having more impact?(public or private)
 
 3) What is the impact of layoffs in each city?
-
-This project will determine the industries which are impacted more by giving ranks to industries based on the reported layoffs in each industry. This will also determine whether the public or private companies has the most impact based on reported layoffs and percentage of layoffs impact in each city.
-
-
-
-### Requirements
-
-* import csv - This module will be used to read and write tabular data in CSV format.
-* import os - This module will be used for identifying the current directory.
-* import unittest - This module provides a rich set of tools for constructing and running tests.
 
