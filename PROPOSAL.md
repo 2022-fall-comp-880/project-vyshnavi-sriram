@@ -8,8 +8,7 @@
 
 
 ## Motivation
-As US is in recession, most of the employees have been laid off in 2022 in US Tech sector . This project investigates about companies and industries which have major impact due to this recession and represent these using different data structures like list and dictionaries by using required modules and operations of data structures.
-
+As US is in recession, most of the employees have been laid off in 2022 in US Tech sector . This project investigates about companies and industries which have major impact due to this recession.
 
 ## Investigative Questions 
 
@@ -44,13 +43,12 @@ As US is in recession, most of the employees have been laid off in 2022 in US Te
 ## Expected Results 
 
 * Get the industries which have more impact due to recession. This will be represented by using dictionary in which keys are the names of the industry and values are the ranks representing the impact - if rank is low, impact is high.
-* Get the impact on private and public companies. This will be represented by a dictionary in which key is the company status like private or public and value is the percentage of impact of private or public companies.
+* Get the impact on private and public companies. This will be represented by a dictionary in which key is the company status like private or public and value is dictionary, with keys representing the range of percentage of impact, values representing list of companies in that percentage range.
 * Get the impact of layoffs in each city. This will be represented by a dictionary in which keys are the names of city and values are the percentage of impact in each city.
 
 ## New Python Packages or Modules
 
 * import os - This module will be used for identifying the current directory.
-* import csv - This module will be used to read and write tabular data in CSV format.
 * import unittest - This module provides a rich set of tools for constructing and running tests.
 
 
@@ -79,7 +77,6 @@ using the dataset we can build the methods we need as mentioned above.
 
    * Company status: whether is private or public
 
-   * Notes:message of layoffs
 
 
 
