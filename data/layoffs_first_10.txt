@@ -1,11 +1,10 @@
-Company,No. of reported layoffs,% workforce impacted,Announced/reported date,Industry,HQ,Source,Company Status
-Sema4,750,16,11/14/2022,AI,Stamford,MarketWatch,Public
-Intercom,124,13,11/14/2022,Customer service,San Franicsco,Silicon Republic,Private
-Amazon,10000,3,11/14/2022,E-commerce,Seattle,New York Times,Public
-Veev,100,30,11/11/2022,PropTech,San Mateo,Calcalistech,Private
-Coinbase,1160,18,10/11/2022,Cryptocurrency,San Francisco,The Information,Public
-Wavely,22,100,10/11/2022,HR Tech,Palo Alto,Wavely,Private
-Reforge,0,0,10/11/2022,HR Tech,San Francisco,Reforge CEO,Private
-Ocavu,20,48,10/11/2022,Cryptocurrency,Lehi,Salt Lake Tribune,Private
-Wistia,40,45,10/11/2022,Video production,Cambridge,Wistia CEO,Private
-SoundHound,45,10,10/11/2022,AI,Santa Clara,TechCrunch,Public
+Sema4,750,16,AI,Stamford,Public
+Intercom,124,13,Customer service,San Franicsco,Private
+Amazon,10000,3,E-commerce,Seattle,Public
+Veev,100,30,PropTech,San Mateo,Private
+Coinbase,1160,18,Cryptocurrency,San Francisco,Public
+Wavely,22,100,HR Tech,Palo Alto,Private
+Reforge,0,0,HR Tech,San Francisco,Private
+Ocavu,20,48,Cryptocurrency,Lehi,Private
+Wistia,40,45,Video production,Cambridge,Private
+SoundHound,45,10,AI,Santa Clara,Public
