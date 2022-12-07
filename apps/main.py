@@ -6,8 +6,6 @@ Authors:
   - https://github.com/VyshnaviMulakalapalli
   - https://github.com/si1051
 """
-
-
 class Layoffs:
     """
     Represent a data-set of information about US companies
@@ -31,6 +29,7 @@ class Layoffs:
             headquarters: string
         """
 
+
     def write(self, filename: str):
         """
         Write a CSV file with US company data.
@@ -53,6 +52,7 @@ class Layoffs:
                     impact.
         """
 
+
     def most_impacted_type_of_company(self) -> dict:
         """
         Create a lookup of percentage impact in each type of company.
@@ -64,6 +64,7 @@ class Layoffs:
                 values representing list of companies in that percentage range.
         """
 
+
     def impact_in_cities(self) -> dict:
         """
         Create a lookup of percentage impact in each city.
@@ -72,6 +73,8 @@ class Layoffs:
             keys: string, each representing name of city.
             values: integer, representing the percentage of impact.
         """
+
+
 
     def __str__(self):
         """Create string representation of data."""
