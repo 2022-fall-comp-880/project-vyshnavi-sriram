@@ -205,6 +205,7 @@ def read_dataset(filename: str) -> Layoffs:
     lst = []
     for line in f_1.readlines():
         values = line.rstrip('\n').split(',')
+        print()
         values[1] = int(values[1])
         values[2] = int(values[2])
         lst.append(tuple(values))
