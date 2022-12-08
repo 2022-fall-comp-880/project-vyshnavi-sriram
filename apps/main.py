@@ -116,7 +116,7 @@ class Layoffs:
     def determine_ranges(percent_of_companies: list) -> dict:
         """
         Return the list of companies in different ranges of
-        percentage_of_workforce_impacted.
+            percentage_of_workforce_impacted.
 
         Parameters:
             percent_of_companies: list of tuples
