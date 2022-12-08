@@ -1,5 +1,6 @@
 """
-Represent a data-set of information about US companies
+Represent a data-set of information about US companies.
+
 impacted due to recession.
 
 Authors:
@@ -7,9 +8,11 @@ Authors:
   - https://github.com/si1051
 """
 
+
 class Layoffs:
     """
-    Represent a data-set of information about US companies
+    Represent a data-set of information about US companies.
+
     impacted due to recession.
 
     Concepts:
@@ -63,7 +66,8 @@ class Layoffs:
         for company_details in self.layoffs_info:
             if company_details[3] in company_dict:
                 company_dict[company_details[3]] = \
-                    int(company_dict[company_details[3]]) + int(company_details[1])
+                    int(company_dict[company_details[3]]) + \
+                    int(company_details[1])
             else:
                 company_dict[company_details[3]] = int(company_details[1])
 
@@ -112,7 +116,8 @@ class Layoffs:
     @staticmethod
     def determine_ranges(percent_of_companies: list) -> dict:
         """
-        Return the list of companies in different ranges of
+        Return the list of companies in different ranges of.
+
         percentage_of_workforce_impacted.
 
         Parameters:
