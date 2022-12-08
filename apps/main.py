@@ -101,7 +101,7 @@ class Layoffs:
         return company_type
 
 
-def impact_in_cities(self) -> dict:
+    def impact_in_cities(self) -> dict:
         """
         Create a lookup of percentage impact in each city.
 
@@ -128,13 +128,11 @@ def impact_in_cities(self) -> dict:
             layoff_percent = layoff_percent + ' %'
             impacted_city[city_layoffs] = layoff_percent
             percentage = 0
-
         return impacted_city
 
     def __str__(self):
         """Create string representation of data."""
         return str(self.layoffs_info)
-
 
 @staticmethod
 def read_dataset(filename: str) -> Layoffs:
@@ -146,11 +144,8 @@ def read_dataset(filename: str) -> Layoffs:
     companies.
     """
 
-
-
 def main():
     """Run read_dataset."""
-
 
 
 if __name__ == '__main__':
