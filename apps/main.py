@@ -6,6 +6,7 @@ Authors:
   - https://github.com/VyshnaviMulakalapalli
   - https://github.com/si1051
 """
+
 class Layoffs:
     """
     Represent a data-set of information about US companies
@@ -95,6 +96,7 @@ class Layoffs:
 
     def __str__(self):
         """Create string representation of data."""
+        return str(self.layoffs_info)
 
 
 @staticmethod
@@ -108,8 +110,10 @@ def read_dataset(filename: str) -> Layoffs:
     """
 
 
+
 def main():
     """Run read_dataset."""
+
 
 
 if __name__ == '__main__':

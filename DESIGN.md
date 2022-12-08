@@ -90,10 +90,39 @@
     Return: dictionary, with
         keys: string, each representing the name of city.
         values: integer, representing the percentage of impact.
+ 
+* Create a variable impacted_city and initialize with empty dictionary to store
+  the output.
 
-* Create an empty dictionary `cities_impact` to store the output.
-* Use a for loop to get the total number of layoffs in each city.
-* Use another for loop to convert the values of dictionary `cities_impact` into percentages.
+* Create a variable total_layoffs and initialize with zero.
+
+* Create a for loop and iterate over self.layoffs_info .for each company data 
+  add layoffs number to the total_layoffs.
+
+* Create a if condition and check the city is present in impact_city dictionary
+
+  * if present add the no of layoffs to the value of that particular city(key)
+  
+  * else create the  city as new key and layoff number as value .
+  
+* After the completion of iteration we have total no of layoffs and a partial 
+  dictionary is created with keys as cities and values as no of layoffs of each 
+  city.
+
+* Now we create a another for loop and iterate over keys .for each city(key) 
+  we get ,calculate the layoff percentage with the respective value that each 
+  key holds 
+  
+   * layoff% = (no of layoffs of each city / total no of layoffs) * 100
+
+* After calculating each city layoff percentage  we assign this percentage 
+  value as value to the city(key).
+
+* After the completion of iteration we thus get the output as dictionary with 
+  cities as keys and percentages as values .
+
+* Finally return the output dictionary impact_city.
+
 
 ### def __str__(self):
 
