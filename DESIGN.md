@@ -52,11 +52,21 @@
         values: integer, representing rank of industry which indicates its 
                 impact.
 
-* A list of tuples will be created with each tuple having industry name and total number of layoffs in that industry.
-* Another list will be created with total number of layoffs in each industry and sort the list.
-* Create an empty dictionary to store output.
-* Use a for loop to compare the second list with the first and the industry whose total number of layoffs match with the highest number in the second list, create a key with industry and give the rank 1 as value.
-* Keep repeating the above step and increment the rank each time a key is created.
+* Create an empty dictionary `company_dict` to store the industry names and total  number of layoffs in each industry.
+* Create a **for** loop to iterate over the class object `layoffs_info`. Use `company_details` as iterator variable.
+* Check if the industry name already exists in the dictionary using **if** statement.
+* If the industry name does not exist, then create a key with that industry name and give the layoffs in that industry as its value.
+* If the industry name already exists, then add the number of layoffs to existing value of the key with that industry name.
+* Create an empty list `lst` to store the number of layoffs in each industry.
+* Sort and reverse the list `lst` to the descending order sequence of values.
+* Create an empty dictionary `comp_dict` to store the industry name and its rank based on its layoffs impact.
+* Create a variable `rank` and assign it with 0.
+* Create a **for** loop to iterate over the list `lst` with iterator variable as `num`.
+* Create another **for** loop inside the above loop to iterate over the keys of `company_dict` with iterator variable as `industry`.
+* Check for the key for which has its value as the first element in the list `lst` has the highest impact.
+* Create a key with same name in `company_dict` and give the value as 1 which indicates rank.
+* Repeat the above 2 steps for all elements in the list `lst`.
+* Return `comp_dict`.
 
 ### def most_impacted_type_of_company(self) -> dict:
     
