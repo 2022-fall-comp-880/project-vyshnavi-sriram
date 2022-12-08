@@ -192,6 +192,7 @@
 * Create a **for** loop to iterate over the above list.
 * Use iterator variable `line` to get hold of each element in the list.
 * Remove the `\n` in `line` and split it into list with `,`.
-* Convert the result from above line to tuple and assign it to `values`.
+* Convert the second and third elements which are no_of_layoffs, percentage_of_workforce_impacted into integers.
+* Convert the result from above two lines to tuple and assign it to `values`.
 * Append this `values` to `lst`.
 * Return `lst` as an object of `Layoffs`.
