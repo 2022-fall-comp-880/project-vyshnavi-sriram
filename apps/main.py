@@ -85,6 +85,57 @@ class Layoffs:
                 values representing list of companies in that percentage range.
         """
 
+    @staticmethod
+    def determine_ranges(percent_of_companies: list) -> dict:
+        """
+        Return the list of companies in different ranges of
+        percentage_of_workforce_impacted.
+
+        Parameters:
+            percent_of_companies: list of tuples
+            Each tuple consists of two elements - company name and
+            percentage_of_workforce_impacted for that company.
+
+        Return: dictionary, with
+            keys: string, representing the range of percentage of impact.
+            values: representing list of companies in that percentage
+                    range.
+        """
+        percent_dict = {}
+        lst1 = []
+        for percent in percent_of_companies:
+            lst1.append(percent[1])
+        lst1.sort()
+        mini = lst1[0] // 20
+        maxi = lst1[len(lst1) - 1] // 20
+        key = mini
+
+        while key < maxi:
+            key1 = "{} - {} %".format(key * 20, (key + 1) * 20)
+            percent_dict[key1] = []
+            key = key + 1
+
+        if mini == maxi:
+            key1 = "{} - {} %".format(key * 20, (key + 1) * 20)
+            percent_dict[key1] = []
+
+        for percent in percent_of_companies:
+            val = mini
+            while val < maxi:
+                i = percent[1]
+                if (i >= val * 20) and (i <= (val + 1) * 20):
+                    val1 = "{} - {} %".format(val * 20, (val + 1) * 20)
+                    percent_dict[val1].append(percent[0])
+                    break
+                else:
+                    val = val + 1
+
+            if mini == maxi:
+                val1 = "{} - {} %".format(val * 20, (val + 1) * 20)
+                percent_dict[val1].append(percent[0])
+
+        return percent_dict
+
     def impact_in_cities(self) -> dict:
         """
         Create a lookup of percentage impact in each city.
@@ -110,10 +161,8 @@ def read_dataset(filename: str) -> Layoffs:
     """
 
 
-
 def main():
     """Run read_dataset."""
-
 
 
 if __name__ == '__main__':
