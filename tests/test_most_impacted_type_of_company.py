@@ -32,6 +32,17 @@ class TestLayoffsMostImpactedTypeOfCompany(TestCase):
                                             [], '80 - 100 %': ['Wavely']}}
         self.assertDictEqual(actual_result2, expected_result2)
 
+    def test_most_impacted_type_of_company_last_5(self):
+        """Test using layoffs_last_5.txt."""
+        data_dir = os.path.dirname(__file__)
+        input_file3 = data_dir + "/layoffs_last_5.txt"
+        layoffs_data3 = read_dataset(input_file3)
+        actual_result3 = layoffs_data3.most_impacted_type_of_company()
+        expected_result3 = {'Public': {'0 - 20 %': ['Sezzle', 'Beachbody']},
+                            'Private': {'20 - 40 %': ['Hyperscience',
+                                                      'Rhino']}}
+        self.assertDictEqual(actual_result3, expected_result3)
+
 
 if __name__ == '__main__':
     unittest.main()
