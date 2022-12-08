@@ -1,0 +1,10 @@
+Sema4,750,16,AI,Stamford,Public
+Intercom,124,13,Customer service,San Francisco,Private
+Amazon,10000,3,E-commerce,Seattle,Public
+Veev,100,30,PropTech,San Mateo,Private
+Coinbase,1160,18,Cryptocurrency,San Francisco,Public
+Wavely,22,100,HR Tech,Palo Alto,Private
+Reforge,0,0,HR Tech,San Francisco,Private
+Ocavu,20,48,Cryptocurrency,Lehi,Private
+Wistia,40,45,Video production,Cambridge,Private
+SoundHound,45,10,AI,Santa Clara,Public
