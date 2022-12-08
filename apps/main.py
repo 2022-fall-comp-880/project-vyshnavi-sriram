@@ -1,5 +1,6 @@
 """
 Represent a data-set of information about US companies
+
 impacted due to recession.
 
 Authors:
@@ -7,9 +8,11 @@ Authors:
   - https://github.com/si1051
 """
 
+
 class Layoffs:
     """
     Represent a data-set of information about US companies
+
     impacted due to recession.
 
     Concepts:
