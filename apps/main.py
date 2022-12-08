@@ -144,18 +144,18 @@ class Layoffs:
             percent_dict[key1] = []
 
         for percent in percent_of_companies:
-            val = mini
-            while val < maxi:
+            value = mini
+            while value < maxi:
                 i = percent[1]
-                if (i >= val * 20) and (i <= (val + 1) * 20):
-                    val1 = "{} - {} %".format(val * 20, (val + 1) * 20)
+                if (i >= value * 20) and (i <= (value + 1) * 20):
+                    val1 = "{} - {} %".format(value * 20, (value + 1) * 20)
                     percent_dict[val1].append(percent[0])
                     break
                 else:
-                    val = val + 1
+                    value = value + 1
 
             if mini == maxi:
-                val1 = "{} - {} %".format(val * 20, (val + 1) * 20)
+                val1 = "{} - {} %".format(value * 20, (value + 1) * 20)
                 percent_dict[val1].append(percent[0])
 
         return percent_dict
