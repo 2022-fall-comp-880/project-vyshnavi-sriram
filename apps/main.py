@@ -1,5 +1,5 @@
 """
-Represent a data-set of information about US companies
+Represent a data-set of information about US companies.
 
 impacted due to recession.
 
@@ -11,7 +11,7 @@ Authors:
 
 class Layoffs:
     """
-    Represent a data-set of information about US companies
+    Represent a data-set of information about US companies.
 
     impacted due to recession.
 
@@ -115,8 +115,9 @@ class Layoffs:
     @staticmethod
     def determine_ranges(percent_of_companies: list) -> dict:
         """
-        Return the list of companies in different ranges of
-            percentage_of_workforce_impacted.
+        Return the list of companies in different ranges of.
+
+        percentage_of_workforce_impacted.
 
         Parameters:
             percent_of_companies: list of tuples
