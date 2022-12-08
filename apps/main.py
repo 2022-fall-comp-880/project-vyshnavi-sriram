@@ -42,6 +42,13 @@ class Layoffs:
 
         filename: filename to write data to
         """
+        with open(filename, 'w', encoding='utf8') as layoffs_file_obj:
+            for company, num_layoffs, percent_layoffs, industry, city, status \
+             in self.layoffs_info:
+                company_info_row = f'{company},{num_layoffs},' \
+                                   f'{percent_layoffs},{industry}, ' \
+                                   f'{city},{status}\n'
+                layoffs_file_obj.write(company_info_row)
 
     def most_impacted_industries(self) -> dict:
         """
