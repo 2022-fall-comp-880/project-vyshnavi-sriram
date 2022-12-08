@@ -28,7 +28,7 @@ class Layoffs:
             company_status: string
             headquarters: string
         """
-
+        self.layoffs_info = layoffs_info
 
     def write(self, filename: str):
         """
@@ -51,7 +51,27 @@ class Layoffs:
             values: integer, representing rank of industry which indicates its
                     impact.
         """
+        company_dict = {}
+        for company_details in self.layoffs_info:
+            if company_details[3] in company_dict:
+                company_dict[company_details[3]] = \
+                    company_dict[company_details[3]] + company_details[1]
+            else:
+                company_dict[company_details[3]] = company_details[1]
 
+        lst = []
+        for number_of_layoffs in company_dict.values():
+            lst.append(number_of_layoffs)
+        lst.sort()
+        lst.reverse()
+        comp_dict = {}
+        rank = 0
+        for num in lst:
+            for industry in company_dict:
+                if company_dict[industry] == num:
+                    comp_dict[industry] = rank + 1
+            rank = rank + 1
+        return comp_dict
 
     def most_impacted_type_of_company(self) -> dict:
         """
@@ -64,7 +84,6 @@ class Layoffs:
                 values representing list of companies in that percentage range.
         """
 
-
     def impact_in_cities(self) -> dict:
         """
         Create a lookup of percentage impact in each city.
@@ -73,8 +92,6 @@ class Layoffs:
             keys: string, each representing name of city.
             values: integer, representing the percentage of impact.
         """
-
-
 
     def __str__(self):
         """Create string representation of data."""
