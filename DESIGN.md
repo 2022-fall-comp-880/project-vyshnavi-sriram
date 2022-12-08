@@ -78,10 +78,32 @@
                 keys representing the range of percentage of impact.
                 values representing list of companies in that percentage range.
 
-* Create an empty dictionary `company_impact` to store the output.
-* Use a for loop to create the keys of dictionary based on dataset representing type of company like public or private.
-* Use another for loop to specify the ranges in each key.
-* Use another for loop to get the list of companies fall in that range.
+* Create a Variable company_type and initialize with empty dictionary to store 
+  the output
+
+* Create a **for** loop and iterate over self.layoffs_info for each company_data 
+  we get .
+
+* Create a **if** condition to check whether that particular company type is 
+ present in dictionary or not
+
+  * if present make company type as key and append a list of tuple where tuple 
+    consists of company name,layoff percentage
+
+  * if not present make company type as key and create a empty list .After that
+   append company name ,layoff percentage as a value.
+
+* To find the ranges of each company we should iterate over each company data 
+  which is already stored a list of tuple.
+
+* Create a for loop and iterate over dictionary company type  and make 
+  company_percent as key and values will be again a nested dictionary where 
+ ranges are keys and values are list of companies that fall in that range. 
+
+* These will be determined by calling a function 
+  self.determine_ranges(company_type[comp_percent]) where dictionary is a 
+  parameter to that method.
+
 
 ### def determine_ranges(percent_of_companies: list) -> dict:
 
