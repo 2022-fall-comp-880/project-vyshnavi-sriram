@@ -12,7 +12,7 @@ class TestPlayerDataWrite(TestCase):
     def test_write(self):
         """Test checking first row in the Layoff.CSV file."""
         filename = 'layoffs.csv'
-        data_dir = os.path.dirname(__file__)
+        data_dir = os.path.dirname(__file__) + "/../data"
         input_file = data_dir + "/layoffs.txt"
         layoff_data = read_dataset(input_file)
         layoff_data.write(filename)
