@@ -63,9 +63,9 @@ class Layoffs:
         for company_details in self.layoffs_info:
             if company_details[3] in company_dict:
                 company_dict[company_details[3]] = \
-                    company_dict[company_details[3]] + company_details[1]
+                    int(company_dict[company_details[3]]) + int(company_details[1])
             else:
-                company_dict[company_details[3]] = company_details[1]
+                company_dict[company_details[3]] = int(company_details[1])
 
         lst = []
         for number_of_layoffs in company_dict.values():
@@ -95,18 +95,19 @@ class Layoffs:
         for company_details in self.layoffs_info:
             if company_details[5] in company_type:
                 company_type[company_details[5]].append((company_details[0],
-                                                         company_details[2]))
+                                                        int(company_details[2])
+                                                         ))
 
             else:
                 company_type[company_details[5]] = []
                 company_type[company_details[5]].append((company_details[0],
-                                                         company_details[2]))
+                                                         int(company_details[2]
+                                                             )))
 
         for comp_percent in company_type:
             company_type[comp_percent] = \
                 self.determine_ranges(company_type[comp_percent])
         return company_type
-
 
     @staticmethod
     def determine_ranges(percent_of_companies: list) -> dict:
@@ -170,13 +171,13 @@ class Layoffs:
         impacted_city = {}
         total_layoffs = 0
         for company_details in self.layoffs_info:
-            total_layoffs = total_layoffs + company_details[1]
+            total_layoffs = total_layoffs + int(company_details[1])
             if company_details[4] not in impacted_city:
-                impacted_city[company_details[4]] = company_details[1]
+                impacted_city[company_details[4]] = int(company_details[1])
             else:
                 impacted_city[company_details[4]] = impacted_city[
                                                           company_details[4]] \
-                                                      + company_details[1]
+                                                      + int(company_details[1])
 
         for city_layoffs in impacted_city.keys():
             percentage = (
@@ -192,6 +193,7 @@ class Layoffs:
         """Create string representation of data."""
         return str(self.layoffs_info)
 
+
 @staticmethod
 def read_dataset(filename: str) -> Layoffs:
     """
@@ -205,9 +207,6 @@ def read_dataset(filename: str) -> Layoffs:
     lst = []
     for line in f_1.readlines():
         values = line.rstrip('\n').split(',')
-        print()
-        values[1] = int(values[1])
-        values[2] = int(values[2])
         lst.append(tuple(values))
     f_1.close()
 
@@ -216,7 +215,7 @@ def read_dataset(filename: str) -> Layoffs:
 
 def main():
     """Run read_dataset."""
-    input_file = "../data/layoffs.txt"
+    input_file = "../data/layoffs_first_10.txt"
     layoffs = read_dataset(input_file)
     print(layoffs)
 
