@@ -66,7 +66,8 @@ class Layoffs:
         for company_details in self.layoffs_info:
             if company_details[3] in company_dict:
                 company_dict[company_details[3]] = \
-                    int(company_dict[company_details[3]]) + int(company_details[1])
+                    int(company_dict[company_details[3]]) + \
+                    int(company_details[1])
             else:
                 company_dict[company_details[3]] = int(company_details[1])
 
