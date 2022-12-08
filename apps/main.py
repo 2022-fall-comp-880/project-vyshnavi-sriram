@@ -84,6 +84,22 @@ class Layoffs:
                 keys representing the range of percentage of impact.
                 values representing list of companies in that percentage range.
         """
+        company_type = {}
+        for company_details in self.layoffs_info:
+            if company_details[5] in company_type:
+                company_type[company_details[5]].append((company_details[0],
+                                                         company_details[2]))
+
+            else:
+                company_type[company_details[5]] = []
+                company_type[company_details[5]].append((company_details[0],
+                                                         company_details[2]))
+
+        for comp_percent in company_type:
+            company_type[comp_percent] = \
+                self.determine_ranges(company_type[comp_percent])
+        return company_type
+
 
     @staticmethod
     def determine_ranges(percent_of_companies: list) -> dict:
@@ -163,13 +179,11 @@ class Layoffs:
             layoff_percent = layoff_percent + ' %'
             impacted_city[city_layoffs] = layoff_percent
             percentage = 0
-
         return impacted_city
 
     def __str__(self):
         """Create string representation of data."""
         return str(self.layoffs_info)
-
 
 @staticmethod
 def read_dataset(filename: str) -> Layoffs:
