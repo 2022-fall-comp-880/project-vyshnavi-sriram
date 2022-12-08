@@ -18,7 +18,7 @@ class TestPlayerDataWrite(TestCase):
         layoff_data.write(filename)
         with open(filename, 'r') as layoffs_file_obj:
             actual_result = layoffs_file_obj.readline()
-            expected_result = 'Sema4,750,16,AI, Stamford,Public\n'
+            expected_result = 'Sema4,750,16,AI,Stamford,Public\n'
             self.assertEqual(actual_result, expected_result,
                              msg='First line written to file is incorrect')
 
