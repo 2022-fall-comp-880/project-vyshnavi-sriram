@@ -83,6 +83,34 @@
 * Use another for loop to specify the ranges in each key.
 * Use another for loop to get the list of companies fall in that range.
 
+### def determine_ranges(percent_of_companies: list) -> dict:
+
+    Return the list of companies in different ranges of
+    percentage_of_workforce_impacted.
+    
+    Parameters:
+        percent_of_companies: list of tuples
+        Each tuple consists of two elements - company name and 
+        percentage_of_workforce_impacted for that company.
+    
+    Return: dictionary, with
+        keys: string, representing the range of percentage of impact.
+        values: representing list of companies in that percentage 
+                range.
+
+* Create an empty dictionary `percent_dict` to store the output.
+* Create an empty list `lst1` to store the values of percentage impact in each company.
+* Create a **for** loop to get all values of percentage impact into list `lst1`.
+* Sort the list `lst1` and assign first and last elements divided by 20 to `mini` and `maxi` respectively.
+* Assign the value of `mini` to `key`.
+* Use a **while** loop to create the keys of dictionary `percent_dict` which are percentage ranges.
+* Create a key for each value of `key` until the condition that `key` is less than `maxi` is satisfied.
+* If `mini` and `maxi` are same, then create the key using **if** statement.
+* Create a **for** loop to iterate over the list `percent_of_companies` to append the company names to values of corresponding keys. Use iterator variable as `percent`.
+* Use a **while** loop to generate the values of dictionary `percent_dict` which are lists of companies in that ranges.
+* If `mini` and `maxi` are same, then generate the value using **if** statement.
+* Return `percent_dict`.
+
 ### def impact_in_cities(self) -> dict:
 
     Create a lookup of percentage impact in each city.
