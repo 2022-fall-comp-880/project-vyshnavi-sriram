@@ -74,13 +74,13 @@ Beyond Meat,240,23,FoodTech,Manhattan Beach,Public
 Clear Capital,378,27,PropTech,Truckee,Private
 Momentive,180,11,IT,Waterford,Private
 6sense,150,10,AI,San Francisco ,Private
-Noom,"1,095",22,Fitness,New York,Private
+Noom,"1095",22,Fitness,New York,Private
 Pacaso,100,30,PropTech,San Francisco,Private
 Udacity,55,13,EdTech,Mountain View,Private
 Brex,136,11,FinTech,San Francisco,Private
 Redesign Health,67,20,Health Care,New York,Private
 Rev.com,85,2,AI,San Francisco,Private
-Peloton,"4,084",40,Fitness,New York,Public
+Peloton,"4084",40,Fitness,New York,Public
 Spotify,0,0,Music,Stockholm,Public
 Built In,50,25,Networking,Chicago,Private
 Homie,162,40,PropTech,South Jordan,Private
@@ -165,7 +165,7 @@ Healthcare.com,149,32,InsurTech,Miami,Private
 Glossier,104,56,Beauty,New York,Private
 Nylas,80,13,Software,San Francisco,Private
 Latch ,115,37,PropTech,New York,Public
-Robinhood,"1,013",30,FinTech,Menlo Park,Public
+Robinhood,"1013",30,FinTech,Menlo Park,Public
 Outreach,44,5,Sales Tech,Seattle,Private
 Oracle,201,1.4,SaaS,Austin,Public
 Imperfect Foods,50,1.4,E-commerce,San Francisco,Private
@@ -177,7 +177,7 @@ Career Karma,60,20,Career planning,San Francisco,Private
 Turntide,130,20,CleanTech,Sunnyvale,Private
 Change.org,97,19,CivicTech,San Francisco,Private
 Rivian,840,6,Electric vehicle,Irvine,Public
-Vox Media,39,2,Digital media,"Washington, DC",Private
+Vox Media,39,2,Digital media,"Washington DC",Private
 People.ai,0,0,AI,San Francisco,Private
 Shopify,1000,10,E-commerce,Ottawa,Public
 Outbrain,38,3,Digital Marketing,New York,Public
@@ -287,10 +287,10 @@ Jellysmack,80,8,Media,New York,Private
 Deep Instinct,0,0,Cybersecurity,New York,Private
 TruePill,750,15,Health Care,Hayward,Private
 Progrexion,100,20,FinTech,Salt Lake City,Private
-ID.Me,0,0,Identity verification,"McLean, Virginia",Private
+ID.Me,0,0,Identity verification,"McLean",Private
 Bird,138,23,Transportation,Santa Monica,Public
 Sendoso,100,14,Marketing Automation,San Francisco,Private
-Dutchie,56,8,Cannabis,"Bend, Oregon",Private
+Dutchie,56,8,Cannabis,"Bend",Private
 Clubhouse,0,0,Social Media,San Francisco,Private
 Superhuman,23,22,Email Software,San Francisco,Private
 Stord,59,8,Logistics,Atlanta,Private

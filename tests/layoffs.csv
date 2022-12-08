@@ -1,0 +1,355 @@
+Sema4,750,16,AI, Stamford,Public
+Intercom,124,13,Customer service, San Franicsco,Private
+Amazon,10000,3,E-commerce, Seattle,Public
+Veev,100,30,PropTech, San Mateo,Private
+Coinbase,1160,18,Cryptocurrency, San Francisco,Public
+Wavely,22,100,HR Tech, Palo Alto,Private
+Reforge,0,0,HR Tech, San Francisco,Private
+Ocavu,20,48,Cryptocurrency, Lehi,Private
+Wistia,40,45,Video production, Cambridge,Private
+SoundHound,45,10,AI, Santa Clara,Public
+Juul,400,30,Consumer goods, San Francisco,Public
+RingCentral,50,10,SaaS, Belmont,Public
+AvantStay,224,30,Travel, Los Angeles,Private
+Redfin,1332,9,PropTech, Seattle,Public
+Root Insurance,467,40,InsurTech, Columbus,Public
+Coursera,1200,42,EdTech, Mountain View,Public
+Amobee,0,0,AdTech, Redwood City,Private
+Kabam,35,7,Video games, San Francisco,Private
+Meta,1100,13,Social Media, Menlo Park,Public
+SADA,55,11,Cloud computing, Los Angeles,Private
+Astra,128,16,Aerospace, Alameda,Public
+Salesforce,1090,5,Enterprise Software, San Francisco,Public
+Domino Data Lab,62,25,AI, San Francisco,Private
+Code42,91,15,Cybersecurity, Minneapolis,Private
+Zendesk,350,5,Customer service, San Francisco,Public
+Varonis Systems,110,5,Cybersecurity, New York,Private
+Twitter,3700,50,Social Media, San Francisco,Public
+Mythical Games,32,10,Video games, Los Angeles,Private
+Benitago Group,3,14,E-commerce, New York,Private
+Exodus,59,22,Cryptocurrency, Nebraska City,Private
+Stripe,1050,14,FinTech, San Francisco,Private
+Lyft,760,15,Transportation, San Francisco,Public
+Shippo,60,20,Logistics, San Francisco,Private
+Affirm,25,1,FinTech, San Francisco,Public
+Faire,84,7,E-commerce, San Francisco,Private
+Digital Currency Group,10,13,Cryptocurrency, Stamford,Private
+Iron Ox,50,50,AgTech, San Francisco,Private
+Chargebee,142,10,FinTech, San Francisco,Private
+Chime,156,12,FinTech, San Francisco,Private
+Opendoor,550,18,PropTech, San Francisco,Public
+Gem,100,33,Recruiting, San Francisco,Private
+Brightline,30,20,Health Care, Palo Alto,Private
+Upstart,60,7,FinTech, San Carlos,Private
+Booking.com,226,3,Travel, Grand Rapids,Private
+Notarize,170,44,Legal Tech, Boston,Private
+Equitybee,25,20,FinTech, San Francisco,Private
+EquityZen,30,27,FinTech, New York,Private
+Fifth Season,100,100,Vertical farming, Pittsburgh,Private
+Advata,32,21,Health Care, Bellevue,Private
+Spreetail,100,15,Retail, Lincoln,Private
+Recharge,84,17,FinTech, Los Angeles,Private
+Argo AI,1000,100,Transportation, Pittsburgh,Private
+GoFundMe,94,12,Crowdfunding, Redwood City,Private
+Zillow,300,5,PropTech, Seattle,Public
+Callisto Media,140,35,Analytics, Emeryville,Private
+TigerGraph,0,0,Analytics, Redwood City,Private
+Fundbox,150,42,FinTech, San Francisco,Private
+Embroker,30,12,InsurTech, San Francisco,Private
+Snyk,220,14,Cybersecurity, Boston,Private
+Cerebral,400,20,Health Care, San Francisco,Private
+Gopuff,2200,14,E-commerce, Philadelphia,Private
+Volta Charging,11,54,Automotive, San Francisco,Public
+Khoros,120,10,SaaS, Austin,Private
+F5,100,1,SaaS, Seattle,Public
+Loom,57,23,Enterprise Software, San Francisco,Private
+Starry,305,50,WiFi, Boston,Public
+Zeus Living,64,46,PropTech, San Francisco,Private
+Clever Real Estate,0,0,PropTech, St. Louis,Private
+AtoB,32,30,FinTech, San Francisco,Private
+Noodle,0,0,EdTech, New York,Private
+Leafly,56,21,Cannabis, Seattle,Public
+Flipboard,24,21,News, Palo Alto,Private
+Beyond Meat,240,23,FoodTech, Manhattan Beach,Public
+Clear Capital,378,27,PropTech, Truckee,Private
+Momentive,180,11,IT, Waterford,Private
+6sense,150,10,AI, San Francisco ,Private
+Noom,"1095",22,Fitness, New York,Private
+Pacaso,100,30,PropTech, San Francisco,Private
+Udacity,55,13,EdTech, Mountain View,Private
+Brex,136,11,FinTech, San Francisco,Private
+Redesign Health,67,20,Health Care, New York,Private
+Rev.com,85,2,AI, San Francisco,Private
+Peloton,"4084",40,Fitness, New York,Public
+Spotify,0,0,Music, Stockholm,Public
+Built In,50,25,Networking, Chicago,Private
+Homie,162,40,PropTech, South Jordan,Private
+TruePill,315,45,Health Care, Hayward,Private
+Spin,78,10,Transportation, San Francisco,Private
+DocuSign,671,9,E-signature, San Francisco,Public
+Divvy Homes,40,12,PropTech, San Franicsco,Private
+Instacart,1877,1,E-commerce, San Francisco,Private
+Pesto,100,100,IT, San Francisco,Private
+Foxtrot,26,4,E-commerce, Chicago,Private
+Klarna,700,10,FinTech, Stockholm,Private
+Kitty Hawk,100,100,Aerospace, Mountain View,Private
+Compass,825,25,PropTech, New York,Public
+Curative,109,6,Health Care, Los Angeles,Private
+VideoAmp,21,2,Advertising platforms, Los Angeles,Private
+DayTwo,0,0,Health Care, Walnut Creek,Private
+LivePerson,193,11,Customer service, New York,Public
+WorkRamp,35,20,SaaS, San Carlos,Private
+Netflix ,480,4,Media, Los Gatos,Public
+Twilio,800,11,Enterprise Software, San Francisco,Public
+Sundae,4,15,PropTech, San Francisco,Private
+Patreon,80,17,Social Media, San Francisco,Private
+Taboola,100,6,Content marketing, New York,Public
+Sama,0,0,AI, San Francisco,Private
+Rent the Runway,432,24,E-commerce, New York,Public
+Karbon,17,23,Productivity, San Francisco,Private
+DreamBox Learning,0,0,EdTech, Seattle,Private
+CommonBond,22,100,FinTech, New York,Private
+Flowhub,40,15,Cannabis, Dever,Private
+FullStory,0,0,SaaS, Atlanta,Private
+realtor.com,0,0,PropTech, Santa Clara,Private
+BigBear.ai,45,7,Analytics, Columbia,Public
+Medly Pharmacy,67,50,Health Care, New York,Private
+Brave Care,40,33,Pediatrics, Portland,Private
+Medium,56,25,Publishing, San Francisco,Private
+Juniper Square,89,14,PropTech, San Francisco,Private
+Innovaccer,120,8,Health Care, San Francisco,Private
+The Wing,40,100,Coworking, New York,Private
+Snap,1280,20,Social Media, Venice,Public
+GoodRx,140,16,Health Care, Los Angeles,Public
+Apartment List,29,10,PropTech, San Francisco,Private
+Nate,30,20,E-commerce, New York,Private
+Skillz,0,0,Mobile Apps, San Francisco,Public
+Fungible,0,0,Cryptocurrency, Santa Clara,Private
+Okta,24,34,Enterprise software, San Francisco,Public
+Argyle,20,7,InsurTech, New York,Private
+FreshDirect,40,23,E-commerce, The Bronx,Private
+impact.com,56,10,Digital marketing, Santa Barbara,Private
+ShipBob,67,7,Shipping, Chicago,Private
+Pix,0,0,FoodTech, Napa,Private
+Reali,140,100,PropTech, San Mateo,Private
+DataRobot,22,26,AI, Boston,Private
+Amperity,13,3,SaaS, Seattle,Private
+Wayfair,870,34,E-commerce, Boston,Public
+Thirty Madison,220,10,Health Care, Greater New York area,Private
+New Relic,110,5,Enterprise software, Bay Area,Private
+Tempo Automation,54,12,Automotive, San Francisco,Private
+Malwarebytes,125,14,Enterprise Software, San Francisco,Private
+Edmodo,45,100,EdTech, San Mateo,Private
+Woven,5,15,AI, Indianapolis,Private
+Blend,67,25,FinTech, San Francisco,Public
+ThredUp,87,15,E-commerce, Oakland,Public
+Almanac,44,30,Collaboration, San Francisco,Private
+Orbit,0,0,Productivity, San Francisco,Private
+Core Scientific ,56,10,Blockchain, Austin,Public
+GoHealth,800,20,Health Care, Chicago,Public
+Homeward,120,20,PropTech, Austin,Private
+Calm,90,20,Health Care, San Francisco,Private
+Nutanix,270,4,Enterprise Software, San Jose,Public
+Sweetgreen,124,5,Food and beverage, Washington,Public
+Vroom,647,45,E-commerce, New York,Public
+Warby Parker,63,22,E-commerce, New York City,Public
+DataRobot,0,0,AI, Boston,Private
+Haus,45,100,Food and beverage, Healdsburg,Private
+Groupon,500,15,E-commerce, Chicago,Public
+Daily Harvest,73,15,E-commerce, New York City,Private
+iRobot,140,10,AI, Bedford,Public
+StubHub,0,0,E-commerce, San Francisco,Private
+On Deck,73,34,Networking, San Francisco,Private
+Jam City,34,17,Mobile Apps, Culver City,Private
+Healthcare.com,149,32,InsurTech, Miami,Private
+Glossier,104,56,Beauty, New York,Private
+Nylas,80,13,Software, San Francisco,Private
+Latch ,115,37,PropTech, New York,Public
+Robinhood,"1013",30,FinTech, Menlo Park,Public
+Outreach,44,5,Sales Tech, Seattle,Private
+Oracle,201,1.4,SaaS, Austin,Public
+Imperfect Foods,50,1.4,E-commerce, San Francisco,Private
+OnlyFans,0,0,Social Media, London,Private
+2U,800,20,EdTech, Hyattsville,Public
+Shelf Engine,43,21.5,FoodTech, Seattle,Private
+Metromile,60,20,InsurTech, San Francisco,Public
+Career Karma,60,20,Career planning, San Francisco,Private
+Turntide,130,20,CleanTech, Sunnyvale,Private
+Change.org,97,19,CivicTech, San Francisco,Private
+Rivian,840,6,Electric vehicle, Irvine,Public
+Vox Media,39,2,Digital media, "Washington DC",Private
+People.ai,0,0,AI, San Francisco,Private
+Shopify,1000,10,E-commerce, Ottawa,Public
+Outbrain,38,3,Digital Marketing, New York,Public
+Pear Therapeutics,25,9,Software, Boston,Public
+Boosted Commerce,7.5,5,E-commerce, Los Angeles,Private
+Clarify Health,15,5,Health Care, San Francisco,Private
+Capsule,0,0,Health Care, New York,Private
+Rad Power Bikes,163,27,Transportation, Seattle,Private
+InVision,0,0,Collaboration, New York,Private
+Hydrow,70,35,Fitness, Boston,Private
+Lunchbox,132,33,FoodTech, New York,Private
+WHOOP,120,15,Fitness, Boston,Private
+98point6,40,10,Health Care, Seattle,Private
+RealSelf,11,5,Beauty, Seattle,Private
+Varo,75,8.3,FinTech, San Francisco,Private
+Arc,13,13,HR Tech, Mountain View,Private
+Flyhomes,150,20,PropTech, Seattle,Private
+The Mom Project,54,15,Talent marketplace, Chicago,Private
+Olive,450,9,Health Care, Columbus,Private
+Invitae,1000,33.3,Health Care, San Francisco,Public
+Elemy,0,0,Health Care, San Francisco,Private
+TikTok,0,0,Social Media, Los Angeles,Private
+Lusha,30,10,Sales tech, New York,Private
+Gemini,68,7,Cryptocurrency, New York,Private
+Vimeo,72,6,Media, New York,Public
+Aspire,23,23,Marketing tech, San Francisco,Private
+Project44,63,5,Logistics, Chicago,Private
+Alto Pharmacy,0,0,Health Care, San Francisco,Private
+OpenSea,80,20,Cryptocurrency, New York,Private
+Papa,120,15,Elder Care, Miami,Private
+ChowNow,100,12.5,FoodTech, Playa Visa,Private
+100 Thieves,12,6,Media, Los Angeles,Private
+Nuro,10,1.8,Transportation, Mountain View,Private
+Spring,0,0,E-commerce, San Francisco,Private
+Fabric,120,40,E-commerce, New York,Private
+Tonal,262,35,Fitness, San Francisco,Private
+Microsoft,0,0,Enterprise Software, Seattle,Public
+Adwerx,40,20,Digital Marketing, Durham,Private
+Hubilo,45,10,Virtual Events, San Francisco,Private
+Hopin,380,84,Virtual Events, London,Private
+SundaySky,24,13,Video Conferencing Software, New York,Private
+Forward,10,5,Health Care, San Francisco,Private
+Nextbite,0,0,FoodTech, Denver,Private
+Butler Hospitality,1000,100,Hospitality, New York,Private
+NextRoll,24,3,Marketing Tech, San Francisco,Private
+Cedar,144,24,Health Care, New York,Private
+Emotive,30,18,SMS Marketing, Los Angeles,Private
+Next Insurance,150,17,InsurTech, Palo Alto,Private
+Argo AI,150,5,Transportation, Pittsburgh,Private
+SQream Technologies,30,18,Analytics, New York,Private
+Remote,100,9,HR Tech, San Francisco,Private
+Bizzabo,120,30,Virtual Events, New York,Private
+Outschool,31,18,EdTech, San Francisco,Private
+Verbit,80,10,Natural Language Processing, New York,Private
+Celsius,150,25,Cryptocurrency, Hoboken,Private
+LetsGetChecked,0,0,Health Care, New York,Private
+Teleport,0,0,Cloud Infrastructure, Oakland,Private
+WanderJaunt,85,100,PropTech, San Francisco,Private
+Canoo,58,6,Transportation, Torrance,Private
+Stream,25,15,Communications Infrastructure, Boulder,Private
+Enjoy,400,18,E-commerce, Palo Alto,Public
+Abra,12,5,Cryptocurrency, Mountain View,Private
+Modsy,0,0,E-commerce, San Francisco,Private
+Degreed,0,0,EdTech, Pleasanton,Private
+Baton,16,25,Transportation, San Francisco,Private
+HomeLight,190,19,PropTech, San Francisco,Private
+Qumolo,80,19,Data storage, Seattle,Private
+Substack,13,14,Media, San Francisco,Private
+AppLovin,300,12,Mobile Apps, Palo Alto,Public
+Niantic,85,8,Video games, San Francisco,Private
+Unity,200,4,Video games, San Francisco,Public
+Sundae,150,15,PropTech, San Francisco,Private
+Bright Machines,30,8,Robotics, San Francisco,Private
+StockX,120,8,E-commerce, Detroit,Private
+Cue,170,3.4,Health Care, San Diego,Public
+SafeGraph,125,25,AI, San Francisco,Private
+Amount,36,18,FinTech, Chicago,Private
+UiPath,210,5,AI, New York,Public
+Postscript,43,19,Marketing Tech, San Francisco,Private
+Ethos Life,40,12,InsurTech, San Francisco,Private
+Aura,70,9,Cybersecurity, Boston,Private
+Ro,90,18,Health Care, New York,Private
+Esper,24,12,DevOps, Seattle,Private
+Community,40,0.8,Social Media, Los Angeles,Private
+MasterClass,156,20,EdTech, San Francisco,Private
+SummerBio,101,100,Health Care, Menlo Park,Private
+Buzzer,20,20,Media, New York,Private
+Finite State,16,20,Cybersecurity, Columbus,Private
+Nayya,16,15,HR Tech, New York,Private
+Socure,69,13,Identity verification, Reno,Private
+Zumper,45,15,PropTech, San Francisco,Private
+JOKR,50,5,Food delivery, New York,Private
+Tonkean,23,23,Software, San Francisco,Private
+Compass,450,10,PropTech, New York,Public
+TIFIN,21,10,FinTech, Boulder,Private
+BlockFi,170,20,Cryptocurrency, Jersey City,Private
+DesktopMetal,36,12,3D Printing, Burlington,Public
+Keepe,0,0,PropTech, Seattle,Private
+Liongard,0,0,IT, Houston,Private
+Sonder,294,21,Hospitality, San Francisco,Public
+Stitch Fix,330,15,E-commerce, San Francisco,Public
+Albert,20,8,FinTech, Los Angeles,Private
+Convoy,0,0,Logistics, Seattle,Private
+Hologram,80,33,IoT, Chicago,Private
+OneTrust,950,25,Cybersecurity, Atlanta,Private
+Jellysmack,80,8,Media, New York,Private
+Deep Instinct,0,0,Cybersecurity, New York,Private
+TruePill,750,15,Health Care, Hayward,Private
+Progrexion,100,20,FinTech, Salt Lake City,Private
+ID.Me,0,0,Identity verification, "McLean",Private
+Bird,138,23,Transportation, Santa Monica,Public
+Sendoso,100,14,Marketing Automation, San Francisco,Private
+Dutchie,56,8,Cannabis, "Bend",Private
+Clubhouse,0,0,Social Media, San Francisco,Private
+Superhuman,23,22,Email Software, San Francisco,Private
+Stord,59,8,Logistics, Atlanta,Private
+Esme Learning,40,20,EdTech, Newton,Private
+Eaze,25,12.5,Cannabis, San Francisco,Private
+Policygenius,170,25,InsurTech, New York,Private
+IRL,25,25,Social Media, San Francisco,Private
+Sourcepoint,7,13,Privacy Tech, New York,Private
+Gemini,100,10,FinTech, New York,Private
+Carbon Health,250,8,Health Care, San Francisco,Private
+Cybereason,100,2,Cybersecurity, Boston,Private
+Side ,50,10,PropTech, San Francisco,Private
+Replicated,50,25,Enterprise Software, Los Angeles,Private
+Tomo,44,33,FinTech, Stamford,Private
+Playtika,250,6,Gaming, Tel Aviv,Public
+Coterie Insurance,30,20,InsurTech, Cincinnati,Private
+Terminus,75,15,Marketing, Atlanta,Private
+Lacework,200,20,Cybersecurity, San Jose,Private
+Bolt,250,33,FinTech, San Francisco,Private
+The Zebra,40,12,InsurTech, Austin,Private
+ClickUp,70,7,Productivity Tools, San Diego,Private
+PayPal,83,0.27,FinTech, San Jose,Public
+Colossus,97,49,Software, Revere,Private
+Outside Inc,75,15,Media, Boulder,Private
+Skillz,70,10,Esports, San Francisco,Public
+Talkdesk,0,0,Customer service, San Francisco,Private
+Picsart,90,8,Media, Miami,Private
+Zulily,99,10,E-commerce, Seattle,Public
+Subspace,50,100,Media, Los Angeles,Private
+Latch,30,6,Smart Home, New York ,Public
+Thirty Madison,24,3,Health Care, New York,Private
+Zwift,0,0,Fitness, Long Beach,Private
+Tripwire,0,0,Security, Portland,Private
+Section4,32,25,EdTech, New York,Private
+Doma ,310,15,FinTech, San Francisco,Public
+Carvana,2500,12,Automotive, Tempe,Public
+Mural,0,0,Product Design, San Francisco,Private
+Reef,750,5,Food delivery, Miami,Private
+On Deck,72,25,Business development, San Francisco,Private
+MainStreet,50,33,FinTech, San Jose,Private
+Ideoclick,40,33,E-commerce, Seattle,Private
+Cameo,167,33.4,Media, Chicago,Private
+Vise,25,25,FinTech, New York,Private
+Thrasio,0,0,E-commerce, Walpole,Private
+Clyde,19,9.5,E-commerce, New York,Private
+Better,5000,50,FinTech, New York,Private
+Blend,200,10,FinTech, San Francisco,Public
+Automox,55,11,Security, Boulder,Private
+Halcyon Health,0,0,Health Care, New York,Private
+Ahead,0,0,Health Care, Santa Clara,Private
+Food52,20,6,Media, New York,Private
+Workrise,450,1.5,Marketplace, Austin,Private
+Fast,400,100,FinTech, San Francisco,Private
+Rasa,59,40,AI, San Francisco ,Private
+Grove Collaborative,85,17,E-commerce, San Francisco,Private
+Curology,150,20,E-commerce, San Francisco,Private
+Knock ,230,46,PropTech, New York,Private
+Sezzle,56,20,FinTech, Minneapolis,Public
+Hyperscience,100,25,AI, New York,Private
+Virgin Hyperloop,111,50,Transportation, Los Angeles,Private
+Rhino,57,20,PropTech, New York,Private
+Beachbody,70,10,Fitness, Santa Monica,Public
