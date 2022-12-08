@@ -93,6 +93,27 @@ class Layoffs:
             keys: string, each representing name of city.
             values: integer, representing the percentage of impact.
         """
+        impacted_city = {}
+        total_layoffs = 0
+        for company_details in self.layoffs_info:
+            total_layoffs = total_layoffs + company_details[1]
+            if company_details[4] not in impacted_city:
+                impacted_city[company_details[4]] = company_details[1]
+            else:
+                impacted_city[company_details[4]] = impacted_city[
+                                                          company_details[4]] \
+                                                      + company_details[1]
+
+        for city_layoffs in impacted_city.keys():
+            percentage = (
+                (impacted_city[city_layoffs] * 100) / total_layoffs)
+            percentage = round(percentage, 2)
+            layoff_percent = str(percentage)
+            layoff_percent = layoff_percent + ' %'
+            impacted_city[city_layoffs] = layoff_percent
+            percentage = 0
+
+        return impacted_city
 
     def __str__(self):
         """Create string representation of data."""
