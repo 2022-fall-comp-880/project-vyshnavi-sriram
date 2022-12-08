@@ -36,11 +36,17 @@
 
     filename: filename to write data to
 
-* Open a file in write 'w' mode.
-* Create a 'for' loop and use company_name, industry, no_of_layoffs, percentage_of_workforce_impacted, company_status, headquarters as iterator variables to iterate over the Layoffs object 'layoffs_info'.
-* Create a variable `layoffs_info_row` and assign it with the company_name, industry, no_of_layoffs, percentage_of_workforce_impacted, company_status, headquarters of company using f-string.
-* Write `layoffs_info_row` into the file opened in write mode.
+
+* Use open() method for opening the file and for writing use 'w' method.
+
+* Create a for loop and use company, num_layoffs, percent_layoffs, industry, city, status as iterator variables to iterate over the Layoffs object 'layoffs_info'.
+
+* For each data write a row using **f string** with the values company,num_layoffs,percent_layoffs,industry,city,status
+assign each row to a variable `company_info_row`.
+
 * Repeat the above 2 steps for all the data in `layoffs_info`.
+
+* Using `write()` function call the `layoffs_file_obj`  for the data to be write on the csv file.
 
         
 ### def most_impacted_industries(self) -> dict:
