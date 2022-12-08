@@ -188,16 +188,29 @@ class Layoffs:
 @staticmethod
 def read_dataset(filename: str) -> Layoffs:
     """
-    Read a CSV text file that holds 6-element records.
+    Read a text file that holds 6-element records.
 
     Each line has company_name, industry, no_of_layoffs,
     percentage_of_workforce_impacted, company_status and headquarters of US
     companies.
     """
+    f_1 = open(filename, 'r')
+    lst = []
+    for line in f_1.readlines():
+        values = line.rstrip('\n').split(',')
+        values[1] = int(values[1])
+        values[2] = int(values[2])
+        lst.append(tuple(values))
+    f_1.close()
+
+    return Layoffs(lst)
 
 
 def main():
     """Run read_dataset."""
+    input_file = "../data/layoffs.txt"
+    layoffs = read_dataset(input_file)
+    print(layoffs)
 
 
 if __name__ == '__main__':
