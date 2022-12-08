@@ -158,7 +158,7 @@
 
 ### def read_dataset(filename: str) -> Layoffs:
 
-    Read a CSV text file that holds 6-element records.
+    Read a text file that holds 6-element records.
 
     Each line has company_name, industry, no_of_layoffs, 
     percentage_of_workforce_impacted, company_status and headquarters of US 
