@@ -84,8 +84,24 @@ class Layoffs:
                 keys representing the range of percentage of impact.
                 values representing list of companies in that percentage range.
         """
+        company_type = {}
+        for company_details in self.layoffs_info:
+            if company_details[5] in company_type:
+                company_type[company_details[5]].append((company_details[0],
+                                                         company_details[2]))
 
-    def impact_in_cities(self) -> dict:
+            else:
+                company_type[company_details[5]] = []
+                company_type[company_details[5]].append((company_details[0],
+                                                         company_details[2]))
+
+        for comp_percent in company_type:
+            company_type[comp_percent] = \
+                self.determine_ranges(company_type[comp_percent])
+        return company_type
+
+
+def impact_in_cities(self) -> dict:
         """
         Create a lookup of percentage impact in each city.
 
