@@ -1,4 +1,4 @@
-"""Test layoffsdata methods."""
+"""Test Layoffs methods."""
 import os
 import unittest
 from unittest import TestCase
@@ -17,7 +17,6 @@ class LayoffImpactedCity(TestCase):
         expected_result = {}
         self.assertDictEqual(actual_result, expected_result)
 
-
     def layoff_impacted_city_first_10(self):
         """Test using layoffs_first_10.txt."""
         data_dir = os.path.dirname(__file__)
@@ -29,7 +28,6 @@ class LayoffImpactedCity(TestCase):
                            'Palo Alto': '0.18 %', 'Lehi': '0.16 %',
                            'Cambridge': '0.33 %', 'Santa Clara': '0.37 %'}
         self.assertDictEqual(actual_result, expected_result)
-
 
     def layoff_impacted_city_last_5(self):
         """Test using layoffs_last_5.txt."""
