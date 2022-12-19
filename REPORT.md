@@ -153,6 +153,24 @@ The class `LayoffImpactedCity` has testing methods to test the method `impact_in
 
 * The output of this method is a dictionary. The keys of the dictionary are the names of the industry and values are the ranks representing the impact - if rank is low, impact is high.
 
+**def most_impacted_type_of_company(self) -> dict:**
+
+* The output of this method is a dictionary.The keys of the dictionary are the company status like private or public and values are dictionaries, with keys representing the range of percentage of impact, values representing list of companies in that percentage range.
+
+**def impact_in_cities(self) -> dict:**
+
+* The output of this method is a dictionary. The keys of the dictionary are the names of city and values are the percentage of impact in each city.
+
+## 5. Evaluation 
 
 
+### 5.1 What Works and Scope Assumptions
+
+Assuming that all the data we got from internet regarding the dataset is correct, we are able to tell which is the most impacted industry due to recession, what are the companies in different ranges of impact categorized by type of company and which city has the highest impact.
+
+### 5.2 Immediate Further Development
+
+* We can generate maps to visualize the cities which are most impacted due to layoffs.
+* We can further develop the code for `most_impacted_industries` to know the impact of industries categorized by cities.
+* We can write a method to know the percentage of impact in public/private companies categorized by cities.
 
