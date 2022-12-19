@@ -220,7 +220,7 @@ def read_dataset(filename: str) -> Layoffs:
 
 
 def user_interactive_function(user_input, layoffs):
-    """Prints output based on user selection."""
+    """Print output based on user selection."""
     if user_input == 1:
         print(layoffs.most_impacted_industries())
     elif user_input == 2:
