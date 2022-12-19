@@ -72,6 +72,32 @@
 
 * After iteration of all the keys return the result dictionary `impacted_city`
 
+## 3. Testing 
+
+* Unittest library is used for testing the project results. This library can be imported by using `import unittest`.
+
+### class TestLayoffsMostImpactedIndustries(TestCase)
+
+The class `TestLayoffsMostImpactedIndustries` has testing methods to test the method `most_impacted_industries` in the class `Layoffs`.
+
+#### def test_most_impacted_industries_empty(self):
+
+* This method tests the method `most_impacted_industries` over an empty data file `layoffs_empty.txt` and validates result using assertDictEqual statements.
+* In this method, first read_dataset method is called on the data file and the output of this function call will be a list which is given as an argument to `most_impacted_industries` method.
+* The output will be a dictionary which will be stored in `actual_result` and it will be validated with `expected_result` using assertDictEqual statements.
+
+#### def test_most_impacted_industries_first_10(self):
+
+* This method tests the method `most_impacted_industries` over a data file `layoffs_first_10.txt` which has the first ten entries of the original dataset and validates result using assertDictEqual statements.
+* In this method, first read_dataset method is called on the data file and the output of this function call will be a list which is given as an argument to `most_impacted_industries` method.
+* The output will be a dictionary which will be stored in `actual_result` and it will be validated with `expected_result` using assertDictEqual statements.
+
+#### def test_most_impacted_industries_last_5(self):
+
+* This method tests the method `most_impacted_industries` over a data file `layoffs_last_5.txt` which has the last five entries of the original dataset and validates result using assertDictEqual statements.
+* In this method, first read_dataset method is called on the data file and the output of this function call will be a list which is given as an argument to `most_impacted_industries` method.
+* The output will be a dictionary which will be stored in `actual_result` and it will be validated with `expected_result` using
+
 
 
 
