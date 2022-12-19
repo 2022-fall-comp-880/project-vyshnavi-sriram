@@ -96,7 +96,7 @@ The class `TestLayoffsMostImpactedIndustries` has testing methods to test the me
 
 * This method tests the method `most_impacted_industries` over a data file `layoffs_last_5.txt` which has the last five entries of the original dataset and validates result using assertDictEqual statements.
 * In this method, first read_dataset method is called on the data file and the output of this function call will be a list which is given as an argument to `most_impacted_industries` method.
-* The output will be a dictionary which will be stored in `actual_result` and it will be validated with `expected_result` using
+* The output will be a dictionary which will be stored in `actual_result` and it will be validated with `expected_result` using assertDictEqual statements.
 
 ### class TestLayoffsMostImpactedTypeOfCompany(TestCase)
 
