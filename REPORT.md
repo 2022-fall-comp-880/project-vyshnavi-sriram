@@ -46,4 +46,32 @@
 * The above step is repeated for all the values in dictionary `company_dict` and rank is incremented during each key-value assignment to dictionary `comp_dict`.
 * Now the dictionary `comp_dict` has the industry names as keys and its values are the ranks indicating its level of impact.
 
+### What are the ranges of percentage of impact in each type of company(public or private)? What are the companies in those ranges?
+
+* Initially an empty dictionary `company_impact` is created to store the output.
+* Using a **for** loop, the keys of dictionary are created based on dataset representing type of company like public or private.
+* The values of dictionary are list of tuples with each tuple containing company name and percentage of its impact.
+* Now use a **for** loop to call the method `determine_ranges` on each of the values of dictionary `company_impact`.
+* Then the values of the dictionary `company_impact` will be transformed into dictionaries with keys as the ranges of percentage impact and values as the list of companies in that range.
+* Now the dictionary `company_impact` has keys as industry names, and its values as another dictionary with the keys as ranges and values are list of companies fall in that ranges.
+
+### What is the impact of layoffs in each city?
+
+* Initialize the empty dictionary `impacted_city` is created to store the output.
+
+* Create a variable `total_layoffs` and initialize with zero to store the total layoffs of companies.
+
+* Using a **for** loop ,the keys and values are dictionary are created where keys are cities and values are layoffs of the company that is located in the key city.
+
+* And also focus on total layoffs by adding each company layoffs irrespective of city.
+
+* Use another **for** loop and iterate over keys which are cities ,for each city calculate the city layoff percentage using formula
+**layoff% = (no of layoffs of each city / total no of layoffs) * 100**
+
+* round the value to 2 decimals and then append % symbol to the value and update the value of the respective key('City')
+
+* After iteration of all the keys return the result dictionary `impacted_city`
+
+
+
 
