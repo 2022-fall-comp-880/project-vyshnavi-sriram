@@ -174,3 +174,4 @@ Assuming that all the data we got from internet regarding the dataset is correct
 * We can further develop the code for `most_impacted_industries` to know the impact of industries categorized by cities.
 * We can write a method to know the percentage of impact in public/private companies categorized by cities.
 
+
