@@ -7,6 +7,7 @@ Authors:
   - https://github.com/VyshnaviMulakalapalli
   - https://github.com/si1051
 """
+import os
 
 
 class Layoffs:
@@ -218,11 +219,34 @@ def read_dataset(filename: str) -> Layoffs:
     return Layoffs(lst)
 
 
+def user_interactive_function(user_input, layoffs):
+    """Prints output based on user selection."""
+    if user_input == 1:
+        print(layoffs.most_impacted_industries())
+    elif user_input == 2:
+        print(layoffs.most_impacted_type_of_company())
+    elif user_input == 3:
+        print(layoffs.impact_in_cities())
+    else:
+        print("invalid input. enter 1, 2 or 3\n")
+        user_input1 = int(input("Enter 1, 2 or 3 to inquire about one "
+                                "of the above queries: "))
+        user_interactive_function(user_input1, layoffs)
+
+
 def main():
     """Run read_dataset."""
-    input_file = "../data/layoffs_first_10.txt"
-    layoffs = read_dataset(input_file)
-    print(layoffs)
+    data_dir = os.path.dirname(__file__) + "/../data"
+    layoffs = read_dataset(f'{data_dir}/layoffs_first_10.txt')
+    print("1.What are the industries that have major impact?\n "
+          "2. What are the ranges of percentage of impact in each type of "
+          "company(public or private)? What are the companies in those "
+          "ranges.\n "
+          "3. What is the impact of layoffs in each city?\n")
+    user_input = int(input("Enter 1, 2 or 3 to inquire about one"
+                           " of the above queries: "))
+    user_interactive_function(user_input, layoffs)
+    # print(layoffs)
 
 
 if __name__ == '__main__':
