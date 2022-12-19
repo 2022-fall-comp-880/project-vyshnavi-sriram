@@ -32,3 +32,18 @@
 
   3) What is the impact of layoffs in each city?
 
+## 2. Approach 
+
+### What are the industries that have major impact?
+
+* Initially an empty dictionary named `company_dict` will be created.
+* Using a **for** loop, dictionary `company_dict` is transformed into a dictionary with keys as the industry names and values as the total number of layoffs in each industry.
+* Next all the values of this dictionary which are total number of layoffs in different industries will be stored in a list `lst`.
+* This list `lst` will be sorted and reversed in order to have the elements in the list in descending order.
+* A variable `rank` is created and 1 is assigned to it.
+* Next using another **for** loop, all the values in dictionary `company_dict` and elements in the list `lst` will be compared.
+* In the dictionary `company_dict`, the key which has its value as the first element(the highest number of layoffs) in list `lst` is taken as key to another new dictionary `comp_dict` and give its value as `rank` which indicates its impact.
+* The above step is repeated for all the values in dictionary `company_dict` and rank is incremented during each key-value assignment to dictionary `comp_dict`.
+* Now the dictionary `comp_dict` has the industry names as keys and its values are the ranks indicating its level of impact.
+
+
