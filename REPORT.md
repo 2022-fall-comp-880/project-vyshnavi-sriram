@@ -157,10 +157,8 @@ The class `LayoffImpactedCity` has testing methods to test the method `impact_in
 
 * The output of this method is a dictionary.The keys of the dictionary are the company status like private or public and values are dictionaries, with keys representing the range of percentage of impact, values representing list of companies in that percentage range.
 
-**def most_impacted_type_of_company(self) -> dict:**
+**def impact_in_cities(self) -> dict:**
 
 * The output of this method is a dictionary. The keys of the dictionary are the names of city and values are the percentage of impact in each city.
-
-
 
 
