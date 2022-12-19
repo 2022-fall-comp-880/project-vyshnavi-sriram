@@ -147,6 +147,12 @@ The class `LayoffImpactedCity` has testing methods to test the method `impact_in
 
 * pytest can also be used for testing the results. It also supports unittest test cases execution. It has benefits like supporting built in assert statement, filtering of test cases, returning from last failing test etc.
 
+## 4. Results
+
+**def most_impacted_industries(self) -> dict:**
+
+* The output of this method is a dictionary. The keys of the dictionary are the names of the industry and values are the ranks representing the impact - if rank is low, impact is high.
+
 
 
 
